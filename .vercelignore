@@ -1,0 +1,10 @@
+**/*.mp4
+**/*.webm
+**/*.avi
+**/*.mov
+chrome_dom.html
+roms/*.sfc
+roms/*.smc
+roms/*.bin
+.git
+dist

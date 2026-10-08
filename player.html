@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EmulatorJS Player - SNES</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    html, body {
+      width: 100%;
+      height: 100%;
+      background-color: #000000;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    #game {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div style="width: 100%; height: 100%; max-width: 100%;">
+    <div id="game"></div>
+  </div>
+
+  <p id="player-status" role="status" style="position:absolute;top:12px;left:12px;right:12px;color:white;font:14px sans-serif;z-index:10;background:#181024;padding:12px;border-radius:8px">Verificando o jogo…</p>
+  <script src="player.js"></script>
+</body>
+</html>

@@ -1,0 +1,1703 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gameList>
+  <provider>
+    <System>Super Famicom</System>
+    <software>Skraper</software>
+    <database>ScreenScraper.fr</database>
+    <web>http://www.screenscraper.fr</web>
+  </provider>
+  <game id="2212" source="ScreenScraper.fr">
+    <path>./ActRaiser (USA).zip</path>
+    <name>ActRaiser</name>
+    <desc>ActRaiser was one of the early SNES games, drawing upon the success of side-scrolling platform action titles and the building model of Sim City. You play "The Master", and must save the world from evil. First you purge the land by sending your spirit into a warrior with a big sword and magic powers. This side scrolling portion puts you in many different locales, from swamps and forests, to pyramids and snowy mountaintops. As you eliminate evil from different parts of the land, you allow villagers to return and build their towns. You then control an angel who helps guide the villagers in their town building, and can send down miracles to aid them in their needs.</desc>
+    <rating>0.8</rating>
+    <releasedate>19911102T000000</releasedate>
+    <developer>Quintet</developer>
+    <publisher>Enix</publisher>
+    <genre>Simulation-Platform-Build And Management-Platform / Fighter Scrolling</genre>
+    <players>1</players>
+    <image>./downloaded_images/ActRaiser (USA).png</image>
+    <video>./downloaded_images/ActRaiser (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2170" source="ScreenScraper.fr">
+    <path>./Aladdin (USA).zip</path>
+    <name>Aladdin</name>
+    <desc>For years, Jafar, the Sultan's evil advisor has sought a magic treasure - a single lamp that holds the key to the greatest power in the world. With this goal in sight, Jafar learns that only one person in the world can claim the magic lamp from the dreaded Cave of Wonders - one whose rags hide a heart that is pure - a diamond in the rough! 
+Join Aladdin and his pet monkey Abu, as they race through the marketplace toward their date with destiny. Watch as Jafar tricks our hero and his friend into retrieving the lamp from the dangerous Cave of Wonders. But Aladding and Abu outwit Jafar, releading the power of a wacky blue Genie! Aladding will have the chance to spoil Jafar's devious plans and win the hand of the beautiful princess Jasmine. But it will take more than magic to make his wishes come true...</desc>
+    <rating>0.8</rating>
+    <releasedate>19931102T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform</genre>
+    <players>1</players>
+    <image>./downloaded_images/Aladdin (USA).png</image>
+    <video>./downloaded_images/Aladdin (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2285" source="ScreenScraper.fr">
+    <path>./Alien 3 (USA) (Rev 1).zip</path>
+    <name>Alien 3</name>
+    <desc>Alien 3 on Super NES immerses you immediately after the end of the movie "Aliens". Ellen Ripley, the main character in the saga, is dormant cryogenically aboard the Sulaco Ship. An alien has infiltrated on board, decimating the crew and causing the ship to crash on the planet Fiorina 161. Help Ripley to survive and rescue the prisoners from the clutches of the aliens until help arrives.</desc>
+    <rating>0.6</rating>
+    <releasedate>19930501T000000</releasedate>
+    <developer>LJN</developer>
+    <publisher>Probe Software</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Alien 3 (USA) (Rev 1).png</image>
+    <video>./downloaded_images/Alien 3 (USA) (Rev 1).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2152" source="ScreenScraper.fr">
+    <path>./Axelay (USA).zip</path>
+    <name>Axelay</name>
+    <desc>This planet was once a quiet, peaceful place to live, until...they came...
+
+An unknown alien race came to this planet and promptly laid waste to it. The remaining defense force has been sent out to try and defeat them. One lucky person gets to fly the latest line of defense ships made: the AX-77 Axelay. However, these ships are still in the prototype stage, and as such, only one exists.
+
+So get out there and head to the alien's homeworld. With some luck, you may just be able to take them out at the source...</desc>
+    <rating>0.75</rating>
+    <releasedate>19920901T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Shoot'em Up-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Axelay (USA).png</image>
+    <video>./downloaded_images/Axelay (USA).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="2329" source="ScreenScraper.fr">
+    <path>./Blackthorne (USA).zip</path>
+    <name>Blackthorne</name>
+    <desc>Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control.  Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him.  Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac.
+
+This game is played from a side-view with non-scrolling backgrounds. It has strong similarities to Prince of Persia, except you battle your foes using guns and bombs instead of a sword.</desc>
+    <rating>0.75</rating>
+    <releasedate>19940923T000000</releasedate>
+    <developer>Blizzard Entertainment</developer>
+    <publisher>Interplay</publisher>
+    <genre>Platform-Action-Platform / Shooter Scrolling</genre>
+    <players>1</players>
+    <image>./downloaded_images/Blackthorne (USA).png</image>
+    <video>./downloaded_images/Blackthorne (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2188" source="ScreenScraper.fr">
+    <path>./Breath of Fire II (USA).zip</path>
+    <name>Breath of Fire II</name>
+    <desc>Ryu was a young boy who has memories of a strange village far away and a magical doorway which sucked him through. However those are only distant memories. Ryu and his best friend Bow are apprentices in the Ranger's Guild. As adventurers they take on posted jobs needed by the townspeople. However it isn't long before one job goes awry and Bow is accused of stealing a valuable item. In order to clear his friend's name and find the meaning of his dreams, Ryu will explore the world, eventually discovering the meaning of his dreams and hidden abilities inside himself. 
+ 
+Breath of Fire II is a role playing game. The majority of game is played from a top-down map, however battles are seen from an isometric view. Ryu will form parties from among 8 other characters, each with their own set of skills and powers that will help him discover the truth behind the mystery.</desc>
+    <rating>0.85</rating>
+    <releasedate>19951201T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./downloaded_images/Breath of Fire II (USA).png</image>
+    <video>./downloaded_images/Breath of Fire II (USA).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="2217" source="ScreenScraper.fr">
+    <path>./Breath of Fire (USA).zip</path>
+    <name>Breath of Fire</name>
+    <desc>In a distant land, peace was maintained for thousands of years by a fearful dragon clan who could transform into powerful monsters. One day they discovered a goddess who could fulfill their every wish. Greed split the clan into Dark and Light Dragons, each battling the other to win her magic. 
+ 
+One member of the Light Dragons, along with seven of his companions, emerged to keep the opposing forces from destroying their world. Using six magical keys, they sealed the goddess into another realm. 
+ 
+Centuries have passed. The Dark Dragons are destroying the land in search of the keys. When they find the keys, they will once again release the magic goddess. Light Dragon... the time has come to draw your sword and fight for the future of your people.</desc>
+    <rating>0.7</rating>
+    <releasedate>19940801T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Squaresoft</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./downloaded_images/Breath of Fire (USA).png</image>
+    <video>./downloaded_images/Breath of Fire (USA).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="108729" source="ScreenScraper.fr">
+    <path>./BS Zelda no Densetsu (3rd Quest) (Japan, En).zip</path>
+    <name>Bs Zelda No Densetsu</name>
+    <desc>BS Zelda no Densetsu is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 5 distinct runs between August 6, 1995 and January 4, 1997. A program called BS Zelda no Asobikata was also broadcast in the half-hour prior to broadcasts of BS Zelda. This program seems to have been a radio tutorial teaching players how to play BS Zelda. The gameplay draws directly from The Legend of Zelda. The plot of BS Zelda varies considerably from the plot of the original due in great part to the fact that the hero of the game is not Link (the hero of The Legend of Zelda). Instead, BS Zelda is closely associated with the story presented in the BS-X interface cartridge, with the Hero of Light actually representing the BS-X avatar according the the BS Zelda storyline. Another major factor in the plot of BS Zelda is the fact that the story is most closely related to the story given in The Legend of Zelda: A Link to the Past. Both plots take up after the conclusion of Kamigami no Triforce - a fact that for Inishie no Sekiban produces one of the many plot inconsistencies/contradictions for which the series has become noted.</desc>
+    <releasedate>19950806T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Action / Adventure-Role playing games-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/BS Zelda no Densetsu (3rd Quest) (Japan, En).png</image>
+    <video>./downloaded_images/BS Zelda no Densetsu (3rd Quest) (Japan, En).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="2530" source="ScreenScraper.fr">
+    <path>./Bust-A-Move (USA).zip</path>
+    <name>Bust-A-Move</name>
+    <desc>Bust-A-Move (also known as Puzzle Bobble) is a real-time puzzle game in which the player controls a device called "pointer" at the bottom of the screen, aiming and releasing randomly colored bubbles upwards. Depending on the aiming, the bubbles may float up directly or bounce off the walls, changing their trajectory. The goal is to aim the bubbles in such a way that they will touch identically colored ones. When such bubbles form a group of three or more, they pop and disappear from the screen. 
+ 
+If the ceiling of the area is covered by too many bubbles, it will gradually descend; the game is over when it nearly reaches the player-controlled pointer. Should the player fail to release the bubbles within a specific time limit, they will be released automatically, unaffected by the pointer's aiming. 
+ 
+A two-player mode is included as well. Each player competes on an area occupying half of the screen, dealing with identically generated bubbles. Whenever a player successfully disposes of a bubble group, a part of it is transferred onto the opponent's part of the screen. 
+ 
+The game features the two dinosaur protagonists (Bob and Bub) as well as other characters from Bubble Bobble, even though the two games have distinctly different gameplay.</desc>
+    <rating>0.8</rating>
+    <releasedate>19950301T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Taito</publisher>
+    <genre>Puzzle-Game-Puzzle-Game / Throw</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Bust-A-Move (USA).png</image>
+    <video>./downloaded_images/Bust-A-Move (USA).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="2143" source="ScreenScraper.fr">
+    <path>./Chrono Trigger (USA).zip</path>
+    <name>Chrono Trigger</name>
+    <desc>What begins as a carefree day at the Millennial Fair for a young man named Crono turns into a huge adventure. He will be thrusted into the ultimate trip through time and space, encountering new friends, defeating the forces of evil, and encountering the one who would destroy the flow of time. 
+Chrono Trigger is a role-playing game, with the usual game mechanics fare. As the characters grow in power, not only their ability scores increase, but they also learn new "Techs". 
+The game utilizes the ATB (active time battle) combat system from Final Fantasy game. Apart from normal Techs, it is possible to use Double and Triple Techniques.There are no random battles in the game, as all the enemies are visible on screen, and it's even possible to just pass by them entirely. 
+The game allows you to face your ultimate adversary at different points of time, which leads to several different endings.</desc>
+    <rating>0.95</rating>
+    <releasedate>19950811T000000</releasedate>
+    <developer>Square</developer>
+    <publisher>Square</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./downloaded_images/Chrono Trigger (USA).png</image>
+    <video>./downloaded_images/Chrono Trigger (USA).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="19017" source="ScreenScraper.fr">
+    <path>./Contra III - The Alien Wars (USA).zip</path>
+    <name>Contra III : The Alien Wars</name>
+    <desc>It's time for revenge...
+
+The hideous Red Falcon, thought to have been destroyed long ago by the Earth's greatest commandos, Mad Dog and Scorpian, has risen again, this time pissed off and thirsty for revenge. His armies are marching through the cities, across the lands, and with the intention of exterminating the human race like a bad case of fleas. Two new commandos, Jimbo and Sully, have come forth now to kick Red Falcon's ass and save what remains of the world from his hideous plans!
+
+The Alien Wars begin!!!</desc>
+    <rating>0.8</rating>
+    <releasedate>19920406T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Shooter / Run and Gun-Shooter-Shoot'em up / Horizontal-Shoot'em Up</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Contra III - The Alien Wars (USA).png</image>
+    <video>./downloaded_images/Contra III - The Alien Wars (USA).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="2219" source="ScreenScraper.fr">
+    <path>./Demon's Crest (USA).zip</path>
+    <name>Demon's Crest</name>
+    <desc>The Demon's Crest consists of six magical stones that when combined will give the holder power to rule all. The inhabitants of the Demon Realm had long fought for possession of this infinite power until one gargoyle emerged victorious: the red demon known as Firebrand. At the end of his final battle, Firebrand was ambushed by his nemesis, Phalanx, and the stones are stolen. 
+ 
+Now, Firebrand must recover the stones before humans and demons fall under Phalanx's sinister rule. Breathe fire, claw walls, and hover across seven intense levels of the Demon Realm. Gain new transformations and abilities as you fight your way through Phalanx's forces. With three different endings to experience, twenty-five hidden items to discover, and six magical stones of cosmic power to control, can you save the realms from total anarchy?</desc>
+    <rating>0.85</rating>
+    <releasedate>19941021T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform-Action-Action / Adventure</genre>
+    <players>1</players>
+    <image>./downloaded_images/Demon's Crest (USA).png</image>
+    <video>./downloaded_images/Demon's Crest (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2169" source="ScreenScraper.fr">
+    <path>./Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).zip</path>
+    <name>Donkey Kong Country 2 : Diddy's Kong Quest</name>
+    <desc>Donkey Kong has been kong-napped by the nasty K.Rool and the Kremlings, and it is up to Diddy Kong and his girl-friend Dixie Kong to save him.
+
+All the familiar enemies and helpful friends return, along with some new characters, including the wise Wrinkly Kong who will teach you some important lessons in gameplay. Again the emphasis is on banana collecting, where as every 100 bananas makes one extra life. Apart from beating K. Rool and rescuing Donkey Kong, there are extra missions that can be completed. Collect enough K. Rool Krem Coins to open up the routes to the Lost World, while every level has a hidden Hero Coin to collect. </desc>
+    <rating>0.95</rating>
+    <releasedate>19951205T000000</releasedate>
+    <developer>Rareware</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Platform / Run Jump-Platform</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).png</image>
+    <video>./downloaded_images/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2181" source="ScreenScraper.fr">
+    <path>./Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).zip</path>
+    <name>Donkey Kong Country 3 : Dixie Kong's Double Trouble!</name>
+    <desc>This time both Donkey Kong and Diddy Kong have been kong-napped by a mysterious new leader of the Kremlings, and it's up to Dixie and new team mate Kiddy Kong to save the day.
+
+New elements to the series includes the Brother Bears, thirteen Bears who, if you pay them with Bear Coins found in each level, will aid you in your quest by building certain items. Also, new bonus mission have you playing a 1st/3rd person shooter style party game. Plus a host of new enemies, the usual huge end of world bosses and a collection of the Kong family who will help you out as best they can. </desc>
+    <rating>0.9</rating>
+    <releasedate>19961122T000000</releasedate>
+    <developer>Rareware</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Platform-Platform / Run Jump</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).png</image>
+    <video>./downloaded_images/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2149" source="ScreenScraper.fr">
+    <path>./Donkey Kong Country (USA) (Rev 2).zip</path>
+    <name>Donkey Kong Country</name>
+    <desc>Help Donkey Kong and Diddy Kong get back those stolen bananas!After a dark and stormy night, Donkey Kong finds all of his bananas stolen by K. Rool and his reptilian crew of Kremlings! Armed with chest-pounding muscle, mighty barrel rolls, and awesome vine-swinging skills, Donkey Kong and Diddy Kong set out to face their adversaries! Play solo, compete with a friend, or play cooperatively with a friend in over 100 levels filled with collectibles and hidden bonus levels. With the help of Donkey Kong's quirky family, animal friends, and your fast reflexes, our dynamic duo will prove to be an unstoppable force. Time to save those bananas!</desc>
+    <rating>0.8</rating>
+    <releasedate>19941125T000000</releasedate>
+    <developer>Rareware</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Action-Platform / Run Jump-Platform</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Donkey Kong Country (USA) (Rev 2).png</image>
+    <video>./downloaded_images/Donkey Kong Country (USA) (Rev 2).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2253" source="ScreenScraper.fr">
+    <path>./E.V.O. - Search for Eden (USA).zip</path>
+    <name>E.V.O. : Search for Eden</name>
+    <desc>The storyline of E.V.O.: Search for Eden follows the same patterns as modern Evolution theories. The players first controls a prehistoric sea organism, and fights to gain evolution points with which he can improve his fish's body parts and upgrade his attack/defense abilities. The gameplay is not completely linear, which means that certain choices of paths and stages will affect the player's success.
+The game is composed of a series of stages, in which the sea organism slowly evolves into an amphibian, and later a land-only creature. The physical changes are fairly scientifically accurate which gives the game a semi-educational purpose as well. </desc>
+    <rating>0.8</rating>
+    <releasedate>19930701T000000</releasedate>
+    <developer>Enix</developer>
+    <publisher>Enix</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./downloaded_images/E.V.O. - Search for Eden (USA).png</image>
+    <video>./downloaded_images/E.V.O. - Search for Eden (USA).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="2150" source="ScreenScraper.fr">
+    <path>./EarthBound (USA).zip</path>
+    <name>EarthBound</name>
+    <desc>In the year 199X, in the village of Onett, on the continent of Eagleland...
+
+Young Ness was asleep one night when a loud crashing noise awoke him suddenly. As he rushes out of bed and up to a nearby hill, he encounters a strange meteor, carrying a single passenger: a mysterious insect-like being named Buzz Buzz. Buzz Buzz tells him that in the future, an evil alien being known as Giygas has conquered the world, and the only one who can stop him are 4 young kids: 3 boys and a girl. Ness, of course, is one of the chosen ones... Ness now must find the other three children: Paula, a young girl with remarkable psychic powers, Jeff, a mechanical genius, and Poo, the young Prince of Dahlaam. Together, these four friends have the power to defeat Giygas and save the world from his chaotic reign!
+
+EarthBound is a top-down RPG where you travel around Eagleland and various other, exotic countries, trying to end Giygas' evil influence. 
+
+On the way, Ness and his friends will encounter a lot of enemies and battle them in turn-based combat. Each turn, each of the characters in the party can attack with their weapon, use a special ability (some characters have powerful psychic powers that can hurt enemies, heal comrades and more; some also have some other, unique special powers), use an item or try and escape. The game features "rolling HP meters" - when a character is dealt damage, it's not all taken away from his HP right away, but instead his HP decreases slowly; if the combat is ended quickly, even a massively damaging attack can leave a character with only minor injuries. By winning battles, characters receive experience and thus become stronger. 
+
+If your characters are strong enough, weak enemies will escape from them instead of trying to attack them, and when chased down, they will be defeated instantly! 
+
+Saving the game is done by finding a telephone and calling Ness' father. When you defeat enemies, your bank account receives money which can be then retrieved from ATM machines throughout the game and spent in shops to buy better equipment or useful items.</desc>
+    <rating>0.9</rating>
+    <releasedate>19950601T000000</releasedate>
+    <developer>Ape Studios</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./downloaded_images/EarthBound (USA).png</image>
+    <video>./downloaded_images/EarthBound (USA).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="2269" source="ScreenScraper.fr">
+    <path>./Earthworm Jim 2 (USA).zip</path>
+    <name>Earthworm Jim 2</name>
+    <desc>An ordinary average earthworm named Jim goes about his normal daily life, cruising around avoiding crows and doing other general worm-like things. Jim is suddenly struck by a very large ultra- high- tech- indestructible- super- space- cyber- suit. Through sheer luck, Jim rests safely in the neck ring of the suit. 
+
+Suddenly, the ultra-high-tech space particles of the suit begin interacting with Jim's soft wormy flesh. A radical light-speed evolution takes place.
+
+Jim soon realizes he is in control of the suit.
+
+Gameplay is similar to the first game, with Jim jumping and running through the levels. There are 5 weapons more than the original game to collect. Characters like Princess Whats-Her-Name and Psy-Crow appear.</desc>
+    <rating>0.75</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Shiny Entertainment</developer>
+    <publisher>Virgin</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Earthworm Jim 2 (USA).png</image>
+    <video>./downloaded_images/Earthworm Jim 2 (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2187" source="ScreenScraper.fr">
+    <path>./Earthworm Jim (USA).zip</path>
+    <name>Earthworm Jim</name>
+    <desc>A crow is chasing a worm named Jim while in outer space Psy-Crow is chasing a renegade ship. The ship's captain has stolen an ultra-high-tech-indestructible-super-space-cyber-suit and Queen Slug-for-a-Butt has ordered Psy-Crow to get it, since it can make her more beautiful than Princess-What's-Her-Name. Psy-Crow blasts the captain and the suit falls to Planet Earth.
+
+Back on earth Jim wonders if he is finally safe when an ultra-high-tech-indestructible-super-space-cyber-suit lands on him. Luckily Jim rests in the neck ring of the suit. Then the space particles begin interacting with Jim, causing a light-speed evolution. Jim soon realizes he is in control of the suit.
+
+Jim overhears the Queen's plans for the suit and decides to meet this Princess...</desc>
+    <rating>0.75</rating>
+    <releasedate>19941001T000000</releasedate>
+    <developer>Shiny Entertainment</developer>
+    <publisher>Virgin</publisher>
+    <genre>Platform-Action-Platform / Run Jump</genre>
+    <players>1</players>
+    <image>./downloaded_images/Earthworm Jim (USA).png</image>
+    <video>./downloaded_images/Earthworm Jim (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2391" source="ScreenScraper.fr">
+    <path>./Fatal Fury 2 (USA).zip</path>
+    <name>Fatal Fury 2</name>
+    <desc>It's time for 20 megs of non-stop action, with another super-hot arcade game for your Super Nintendo. Rejoin the brothers Andy and Terry Bogard, with their friend Joe Higashi as they discover that FATAL FURY was just a warm up! Now they must face the meanest, most dangerous fighters ever assembled! 
+ 
+Choose from among 8 fierce opponents: from Big Bear - the savage unmasked wrestler to Mai Shiranui-the female beauty with mystical arts of the Ninja. Battle through Thailand, Spain, Australia and many other locations. Feature packed, and filled with all the hard-hitting action you'd expect from Takara's Fighting Series. Unique 3D movements enable you to move and fight both in foreground and background - in way NO other street fighting game can. This game rocks with huge, blazing arcade style graphics and faster animation that ever before! The question is - are you up to a new challenge?</desc>
+    <rating>0.6</rating>
+    <releasedate>19931126T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>Takara</publisher>
+    <genre>Fight-Action-Fight / Versus</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Fatal Fury 2 (USA).png</image>
+    <video>./downloaded_images/Fatal Fury 2 (USA).mp4</video>
+    <genreid>262</genreid>
+  </game>
+  <game id="2146" source="ScreenScraper.fr">
+    <path>./Final Fantasy VI (Japan,En).zip</path>
+    <name>Final Fantasy VI</name>
+    <desc>1,000 years ago, the War of the Magi occurred. People remember it as one of the most horrible tragedies in history. Since the War of the Magi, magic has been all but forgotten, technology began to grow, and people returned to seemingly normal lives. The only true worry people had was the Empire, whose leaders were looking to revive the great force once known as "magic". 
+ 
+But then...something happened that would change the course of history forever... 
+ 
+The Empire had heard word of the remains of a mystical being, known as an "Esper", being found in the mining town of Narshe. Quickly, three soldiers were dispatched to find this Esper and bring it to the Emperor. One of the soldiers, a young girl, triggers a power in the Esper that will begin one of the most dangerous series of events ever. And the only ones who can help her are a rag-tag band of rebels and heroes, whose very hearts and souls are the only ones that can save the world from the mad plans of the Empire.</desc>
+    <rating>0.95</rating>
+    <releasedate>19940402T000000</releasedate>
+    <developer>Square</developer>
+    <publisher>Square</publisher>
+    <genre>Role playing games</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Final Fantasy VI (Japan,En).png</image>
+    <video>./downloaded_images/Final Fantasy VI (Japan,En).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="2257" source="ScreenScraper.fr">
+    <path>./Final Fight (USA).zip</path>
+    <name>Final Fight</name>
+    <desc>There's trouble in Metro City. The members of the Mad Gear Gang have kidnapped the mayor's daughter Jessica and the clock is ticking. 
+
+Final Fight is a 2D side-scrolling fighting game. 
+Taking on the role of either Cody, Guy, or Mike Haggar, you must advance through six areas of the city clearing out the gang infestation. 
+You will have to cope with a variety of thugs, ranging from firebomb-throwing maniacs to behemoth wrestlers. To defeat these thugs, you have an arsenal of punches, kicks, throws, and jump kicks at your disposal.</desc>
+    <rating>0.75</rating>
+    <releasedate>19910901T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Beat'em Up</genre>
+    <players>1</players>
+    <image>./downloaded_images/Final Fight (USA).png</image>
+    <video>./downloaded_images/Final Fight (USA).mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="2229" source="ScreenScraper.fr">
+    <path>./Flashback - The Quest for Identity (USA) (En,Fr,De).zip</path>
+    <name>Flashback : The Quest for Identity</name>
+    <desc>The year is 2142. You play as Conrad B. Hart, a man who has lost his memory. After barely escaping from hostile aliens, Conrad's bike crashes on an unknown planet. Conrad finds himself in the jungle, and from now on his quest for survival and his lost identity begins.
+
+"Flashback" is a platform action adventure. You navigate Conrad over the platforms, performing various moves. You can simply jump or do a longer run-and-jump, run, climb, hang off ledges, and pick up objects lying on the ground. To defend yourself, you shoot enemies with your gun and also use various objects (such as stones) to harm or to distract them. </desc>
+    <rating>0.9</rating>
+    <releasedate>19940201T000000</releasedate>
+    <developer>Delphine Software International</developer>
+    <publisher>U.S. Gold</publisher>
+    <genre>Adventure-Platform</genre>
+    <players>1</players>
+    <image>./downloaded_images/Flashback - The Quest for Identity (USA) (En,Fr,De).png</image>
+    <video>./downloaded_images/Flashback - The Quest for Identity (USA) (En,Fr,De).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2208" source="ScreenScraper.fr">
+    <path>./F-Zero (USA).zip</path>
+    <name>F-Zero</name>
+    <desc>F-Zero is a futuristic racing game, set in the year 2560. The player chooses one of the four available hovercars and then can race with other hovercars in one of the gameplay modes - "Practice" or "Grand Prix". 
+ 
+In "Practice" mode, the player chooses one track where he competes with one other hovercar to win the race (or there can be no rival at all, if you so wish). In "Grand Prix", the player must complete a series of races with several competitors. Each race consists of five laps.</desc>
+    <rating>0.8</rating>
+    <releasedate>19910823T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Race, Driving-Race 3rd Pers. view</genre>
+    <players>1</players>
+    <image>./downloaded_images/F-Zero (USA).png</image>
+    <video>./downloaded_images/F-Zero (USA).mp4</video>
+    <genreid>1537</genreid>
+  </game>
+  <game id="2361" source="ScreenScraper.fr">
+    <path>./Gradius III (USA).zip</path>
+    <name>Gradius III</name>
+    <desc>Gradius III is the third game in Konami's long-running space shooter series, which also includes Life Force and Nemesis. As with most Gradius titles, you control the highly advanced Vic Viper space fighter against hordes of foes. Weapons can be selected from pre-arranged loadouts or you can create your own custom loadout. The game can be played by a single player, or by two players in alternating turns. The game offers three levels of difficulty.</desc>
+    <rating>0.7</rating>
+    <releasedate>19901221T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Shoot'em Up-Action-Shoot'em up / Horizontal</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Gradius III (USA).png</image>
+    <video>./downloaded_images/Gradius III (USA).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="38622" source="ScreenScraper.fr">
+    <path>./Harvest Moon (USA).zip</path>
+    <name>Harvest Moon</name>
+    <desc>Ever wanted to live life on a farm, with nothing but the sun, the fresh scent of your crops, the muddy fields underneath, and cows and chickens to keep you company? Well, you're in luck, because you have just inherited your grandfather's ranch, but it's in a terrible state of disrepair! What ever can you do?
+
+You're going to do like the farmers do; roll up your sleeves, get down in that dirt, fix that farm up and make it the best farm anyone has ever seen! It sure gets lonely on that farm...but not to worry! There are plenty of girls in the village, and if you treat them right and manage to win their love, you've got yourself a wife!
+
+So let's go, farmer! You've got 2 years to make a name for yourself on that farm! Work hard, and the rewards will be great!</desc>
+    <rating>0.75</rating>
+    <releasedate>19970601T000000</releasedate>
+    <developer>Pack In Video</developer>
+    <publisher>Natsume</publisher>
+    <genre>Adventure-Simulation</genre>
+    <players>1</players>
+    <image>./downloaded_images/Harvest Moon (USA).png</image>
+    <video>./downloaded_images/Harvest Moon (USA).mp4</video>
+    <genreid>512</genreid>
+  </game>
+  <game id="2137" source="ScreenScraper.fr">
+    <path>./Illusion of Gaia (USA).zip</path>
+    <name>Illusion of Gaia</name>
+    <desc>Will is a young boy whose father disappeared long time ago. Now Will lives in a small town with his grandparents. He possesses unusual abilities of pushing and pulling things without touching them. One day, he finds in his house a girl, who soon turns out to be the princess Kara. Kara's father, king Edward, wants her to marry a mysterious person called the Jackal. Kara asks Will to help her to escape the palace, and soon they both get involved in a string of mystery and conspiracies...
+
+The game is somewhat similar to the famous Legend of Zelda games, also having a "save the princess" story, and employing real-time combat. Will can also use his special abilities to solve simple environmental puzzles. </desc>
+    <rating>0.9</rating>
+    <releasedate>19940901T000000</releasedate>
+    <developer>Quintet</developer>
+    <publisher>Enix</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./downloaded_images/Illusion of Gaia (USA).png</image>
+    <video>./downloaded_images/Illusion of Gaia (USA).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="2274" source="ScreenScraper.fr">
+    <path>./International Superstar Soccer Deluxe (USA).zip</path>
+    <name>International Superstar Soccer Deluxe</name>
+    <desc>This is the sequel to International Superstar Soccer, Konami's saga of soccer games. This Deluxe version was published first to the SNES, then the Mega Drive and Playstation.
+
+ISS Deluxe has realistic animations and player sprites. You can compete with 36 national teams with recognizable celebrity players (like Valderrama, Baggio, Ravanelli, Petkov...), but their names are fictitious. You can choose too from 16 formations and 8 strategies to win.
+
+The competitions available are: International Cup, World Series (League), Scenario Mode and customizable mini-cups/leagues.</desc>
+    <rating>0.75</rating>
+    <releasedate>19951001T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Sports-Sports / Soccer</genre>
+    <players>1-4</players>
+    <image>./downloaded_images/International Superstar Soccer Deluxe (USA).png</image>
+    <video>./downloaded_images/International Superstar Soccer Deluxe (USA).mp4</video>
+    <genreid>1538</genreid>
+  </game>
+  <game id="2568" source="ScreenScraper.fr">
+    <path>./Joe &amp; Mac 2 - Lost in the Tropics (USA).zip</path>
+    <name>Joe &amp; Mac 2 : Lost in the Tropics</name>
+    <desc>This sequel puts you back into the roles of the cavemen, Joe and Mac. This time, a caveman named Gork has stolen the crown belonging to the Chief of Kali Village, and it's up to you to retrieve it by using the 7 Rainbow Stones you will collect on your journey.
+
+Along the way, you will fight dinosaurs, cavemen, and other prehistoric enemies as your travel through the jungle, or through the ice and snow, or even through a volcanic wasteland. Along the way, you can pick up upgrades for your club, or pick up projectiles from eating certain health-recovery items. In some levels, you'll ride in a stone cart, trying to hope over gaps and avoid enemies as you try to reach the end.
+
+Improving on the original's platformer/brawler co-op gameplay, this game adds adventure and role-playing game elements that create a more involving experience compared to the first game. You can now collect coins in the levels to purchase items from Tiki Village, such as meat to recover your health, or even remodel your hut back at your home village. The game also uses a password system to track your progress. The game also shifts to an overhead map so you can wander to whichever level you wish, and return to completed levels to earn more money or power-ups. </desc>
+    <rating>0.85</rating>
+    <releasedate>19940402T000000</releasedate>
+    <developer>Data East</developer>
+    <publisher>Data East</publisher>
+    <genre>Platform</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Joe &amp; Mac 2 - Lost in the Tropics (USA).png</image>
+    <video>./downloaded_images/Joe &amp; Mac 2 - Lost in the Tropics (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2626" source="ScreenScraper.fr">
+    <path>./Jungle Strike (USA).zip</path>
+    <name>Jungle Strike</name>
+    <desc>Some time after Operation Desert Strike, Ibn Kilbaba, son of Kilbaba S.R, threatens to annihilate America. After his father was killed, the people who were under his control, sent his son running off, along with his father's money and nuclear weapons program. Kilbaba, more ruthless than his father, longs for revenge of his father's death and decides to shed the blood of those who killed him, the Americans. Already armed, Kilbaba hires Carlos Ortega to help him set up his Nuclear Weapons program, deep in South America. Carlos Ortega, the world's most notorious druglord, also yearns to seek revenge. With his own private army, armed with the most hi-tech weapons, he's ready to fight America at all costs. 
+
+Because of this threat, you're hired again to battle these two characters, following their paths in the jungles of South America. Armed with the Commache, numerous other vehicles, and destructive weapons, you must take out their private army. Blow up the enemy with your hellfires, hydras, chain guns. Use the watercraft to launch mines at enemy ships. Pull off a drive-by on the enemy with guns on the side. Take out the evil duo and forever rid this threat.....in the jungle!</desc>
+    <rating>0.7</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Gremlin Interactive</developer>
+    <publisher>Electronic Arts</publisher>
+    <genre>Action-Shoot'em Up-Shooter</genre>
+    <players>1</players>
+    <image>./downloaded_images/Jungle Strike (USA).png</image>
+    <video>./downloaded_images/Jungle Strike (USA).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="2875" source="ScreenScraper.fr">
+    <path>./Ken Griffey Jr.'s Winning Run (USA).zip</path>
+    <name>Ken Griffey Jr.'s Winning Run</name>
+    <desc>Ken Griffey Jr.'s Winning Run is a licensed arcade baseball  game featuring MLB's own Ken Griffey Jr. Released in 1996, it contains all 28 MLB teams and logos from that time, with rosters containing fictitious names for the players (Ken Griffey Jr being the only real player in the game).
+
+Next to exhibition games, there are different game modes to compete in. In the MLB Challenge, players start with a weak team and go against every major MLB club to go up the rankings. There is also a complete World Series, All-Star games and the MLB League. In the league modes up to eight players can choose a team and play a season of 26, 52 or 162 games. Between matches players can change the line-up and rotation, and trade away players.
+
+Gameplay is fairly tradition, with fielding, pitching, batting and baserunning. Next to fastball and curveballs, there are six different pitches such as Super Fast, Screwball, Super Curve, Slider, Change Up and Knuckleball. </desc>
+    <rating>0.65</rating>
+    <releasedate>19960602T000000</releasedate>
+    <developer>Rareware</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Sports-Sports / Baseball</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Ken Griffey Jr.'s Winning Run (USA).png</image>
+    <video>./downloaded_images/Ken Griffey Jr.'s Winning Run (USA).mp4</video>
+    <genreid>1538</genreid>
+  </game>
+  <game id="2155" source="ScreenScraper.fr">
+    <path>./Killer Instinct (USA).zip</path>
+    <name>Killer Instinct</name>
+    <desc>In the distant future, a monopolistic and technological corporation called Ultratech organizes a fighting tournament known as "Killer Instinct". Many fighters answer the challenge to participate, including several of Ultratech's experimental warriors.  To increase the tournament's challenge, Ultratech utilizes a technology that can create bridges between alternate dimensions, releasing a creature known as Eyedol.  Eyedol is a two-headed ancient warrior that was imprisoned along with his bitter rival, Gargos. Some warriors enter the tournament to seek glory or escape.  Other fighters are attempting to bring an end to Ultratech's corruption.  
+
+Killer Instinct is a Rare developed fighting game published by Nintendo (and distributed in the arcades by Midway).  Killer Instinct (or "KI" among its fanbase) is a 2D fighting game that features 3D rendered sprite based graphics. Players choose from 10 characters: Orchid, Cinder, Jago, Glacius, Fulgore, Riptor, Sabrewulf, Spinal, T.J. Combo, and Thunder.  
+
+Killer Instinct is known for its heavy combo based fighting system, allowing players to pull off moves that land an insane number of hits on their opponent, the highest being the "Ultra Combo".  The gameplay is also known for its use of combo breakers, finishing moves and stage fatalities, double energy bars, and dance-music inspired techno soundtrack.</desc>
+    <rating>0.75</rating>
+    <releasedate>19950801T000000</releasedate>
+    <developer>Rareware</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Fight-Action-Fight / Versus</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Killer Instinct (USA).png</image>
+    <video>./downloaded_images/Killer Instinct (USA).mp4</video>
+    <genreid>262</genreid>
+  </game>
+  <game id="2216" source="ScreenScraper.fr">
+    <path>./Kirby Super Star (USA).zip</path>
+    <name>Kirby Super Star</name>
+    <desc>The game is actually a set of seven main games: Spring Breeze, Dynablade, Gourmet Race, The Great Cave Offensive are unlocked at first, and later Metaknight's Revenge, Milky Way Wishes and The Arena become available, as well as a couple of minor minigames. 
+These are all typical Kirby platformers, each one with its own set of levels and different gameplay. In most of them you can consume monsters and learn their special abilities, but in Milky Way Wishes abilities are instead collected in a manner similar to Metroid. Offensive Cave features levels with various obstacles, hidden treasures and some elementary lever-pulling kind of puzzle solving. Metaknight's Revenge is the only game on the cartridge with a (fairly strict) timer. The Arena is a "boss rush" mode, asking players to defeat every boss in the game with limited health refills and on one life. 
+Kirby Super Star is best known for its two-player cooperative play option, which has given it a reputation as a party game.</desc>
+    <rating>0.95</rating>
+    <releasedate>19960920T000000</releasedate>
+    <developer>HAL Laboratory</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Platform</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Kirby Super Star (USA).png</image>
+    <video>./downloaded_images/Kirby Super Star (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2368" source="ScreenScraper.fr">
+    <path>./Kirby's Avalanche (USA).zip</path>
+    <name>Kirby's Avalanche</name>
+    <desc>The First Annual Dream Land's Avalanche Competition is about to get under way, and as Kirby and a host of characters from the Kirby series, you can join the tournament and become Avalanche king.
+
+Avalanche is similar to Puyo Puyo, and has you stacking colored blobs similar in a way to Tetris. When a certain amount of one color is stacked, an explosion occurs and the screen clears of those blobs, which then appear in the other players screen (either the CPU or a second player). When your screen is cleared before the other player, you move onto the next round, and so on until the final boss. The winner of that match is then crowned the Avalanche king. </desc>
+    <rating>0.7</rating>
+    <releasedate>19950201T000000</releasedate>
+    <developer>HAL Laboratory</developer>
+    <publisher>Banpresto</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Kirby's Avalanche (USA).png</image>
+    <video>./downloaded_images/Kirby's Avalanche (USA).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="2355" source="ScreenScraper.fr">
+    <path>./Kirby's Dream Course (USA).zip</path>
+    <name>Kirby's Dream Course</name>
+    <desc>Kirby's Dream Course is an innovative SNES game featuring everyone's favourite pink blob, Kirby. After his adventures in Dream Land we find him in this mini golf game where Kirby himself is the ball, and you must guide him around each hole using the sort of bar system that you see in most golf games. Where this game differs, however, is in the fact that you need to eliminate all on-screen enemies before you can guide Kirby into the hole and complete it. As per usual in golf games, the more strokes it takes you to complete the whole, the lower your score - so make sure you aim Kirby just right!
+
+You'll find eight courses and a total of sixty-four holes in the game, not including the final showdown with King Dedede, as well as an action-packed two-player mode.</desc>
+    <rating>0.8</rating>
+    <releasedate>19950201T000000</releasedate>
+    <developer>HAL Laboratory</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Sports-Sports / Golf</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Kirby's Dream Course (USA).png</image>
+    <video>./downloaded_images/Kirby's Dream Course (USA).mp4</video>
+    <genreid>1538</genreid>
+  </game>
+  <game id="2268" source="ScreenScraper.fr">
+    <path>./Kirby's Dream Land 3 (USA).zip</path>
+    <name>Kirby's Dream Land 3</name>
+    <desc>That mean old King Dedede is at it again! He's causing his mischief and Dreamland's in trouble! Kirby, the resident hero of Dreamland, sets out to teach Dedede a lesson, this time with the help of many of his good friends!
+
+But wait! Something's wrong! Dedede doesn't seem to be himself...
+
+Looks like Kirby has to stop Dedede and find out what is wrong with him! It almost seems like something's controlling him... </desc>
+    <rating>0.85</rating>
+    <releasedate>19971127T000000</releasedate>
+    <developer>HAL Laboratory</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Platform</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Kirby's Dream Land 3 (USA).png</image>
+    <video>./downloaded_images/Kirby's Dream Land 3 (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2259" source="ScreenScraper.fr">
+    <path>./Lufia II - Rise of the Sinistrals (USA).zip</path>
+    <name>Lufia II : Rise of the Sinistrals</name>
+    <desc>Lufia II is an RPG with many puzzle elements thrown in. In this game, the prequel to Lufia I, you are Maxim, a monster hunter. During your journey, you will find new party members, explore and conquer various dungeons, and solve many puzzles. 
+Lufia II was an innovative game in many regards. It made extensive use of puzzles in its dungeon layouts. It also featured "Capsule Monsters" which would fight alongside your party in battle. They would evolve when fed weapons, armor, or special fruits. You could also gamble away your money in minigames at the casinos found in various towns. </desc>
+    <rating>0.8</rating>
+    <releasedate>19960831T000000</releasedate>
+    <developer>Neverland</developer>
+    <publisher>Taito</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./downloaded_images/Lufia II - Rise of the Sinistrals (USA).png</image>
+    <video>./downloaded_images/Lufia II - Rise of the Sinistrals (USA).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="2507" source="ScreenScraper.fr">
+    <path>./Madden NFL '94 (USA).zip</path>
+    <name>Madden NFL '94</name>
+    <desc>Madden NFL '94 is the third in the Madden series of football games for the SNES. It features 80 teams -- 28 teams from the 1993 season, 38 Super Bowl teams from 1966-1991, 12 All Star franchise teams since 1950, and two "All-Madden" teams: one for the 1993 season and one from a 20-year time span. You can play these teams in a regular exhibition game or sudden death overtime game, or take the 1993 teams through an entire season. You can also enter the playoffs with the 1993 teams, the Super Bowl champions, or the All Star franchise teams. Unlike many other sports games, saving a season is done by password rather than by storing the data into a saved game.</desc>
+    <rating>0.65</rating>
+    <releasedate>19931001T000000</releasedate>
+    <developer>High Score Productions</developer>
+    <publisher>Electronic Arts</publisher>
+    <genre>Sports-Sports / Football</genre>
+    <players>1-5</players>
+    <image>./downloaded_images/Madden NFL '94 (USA).png</image>
+    <video>./downloaded_images/Madden NFL '94 (USA).mp4</video>
+    <genreid>1538</genreid>
+  </game>
+  <game id="2209" source="ScreenScraper.fr">
+    <path>./Mega Man X2 (USA).zip</path>
+    <name>Mega Man X2</name>
+    <desc>Sigma, the leader of the Maverick army, was destroyed when he underestimated his opponent: a lone warrior, awakened into a time he never knew...X.
+
+6 months had passed, and X rose to the rank of leader of the Maverick Hunters. His first task was to eliminate the last of the Mavericks. But as he began his assignment, a mysterious group of Reploids calling themselves the X-Hunters appeared with a message to X: the remains of his fallen comrade, Zero, were in the hands of the X-Hunters, and they planned on resurrecting Zero to fight alongside them and for their fallen leader, Sigma.
+
+X must now stop the X-Hunters and rescue Zero, and once again prevent Sigma from rising back into ultimate power.</desc>
+    <rating>0.8</rating>
+    <releasedate>19950303T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Mega Man X2 (USA).png</image>
+    <video>./downloaded_images/Mega Man X2 (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2191" source="ScreenScraper.fr">
+    <path>./Mega Man X3 (USA).zip</path>
+    <name>Mega Man X3</name>
+    <desc>A Reploid scientist named Dr. Doppler begins creation of a new city for Reploids, which will bring a new era of peace to the Reploids and humans. But something goes terribly wrong, and now Mavericks have begun to appear everywhere! It's up to X and Zero to find out who is behind this Maverick revolt and bring them down for good!</desc>
+    <rating>0.8</rating>
+    <releasedate>19960214T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Mega Man X3 (USA).png</image>
+    <video>./downloaded_images/Mega Man X3 (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2380" source="ScreenScraper.fr">
+    <path>./Metal Warriors (USA).zip</path>
+    <name>Metal Warriors</name>
+    <desc>Get deployed in your own giant mech and battle through nine linear levels against the evil Dark Axis forces. Eject and switch robots, piloting one of the six "Battledroid" suits; but watch out because there are no save games and no continue codes.
+
+For the best of Metal Warriors, grab a friend for some head-to-head combat in the PvP mode. The variety of robots and levels means the matchups stay surprising and interesting.</desc>
+    <rating>0.8</rating>
+    <releasedate>19950402T000000</releasedate>
+    <developer>LucasArts</developer>
+    <publisher>Konami</publisher>
+    <genre>Action-Platform</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Metal Warriors (USA).png</image>
+    <video>./downloaded_images/Metal Warriors (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2200" source="ScreenScraper.fr">
+    <path>./Mortal Kombat II (USA) (Rev 1).zip</path>
+    <name>Mortal Kombat II</name>
+    <desc>The Mortal Kombat fighters, plus several new ones, return for a tournament held by the evil Shang Tsung of the Outworld. The action is one-on-one as before, and famed for its high level of violence and blood (other than the sanitised Nintendo version). There are 5 difficulty levels and optional credits, as well as the usual two player mode including same character duels.
+
+To win the main tournament, the player must beat each of the other human players, before taking on Shang Tsung, Kintaro and finally Shao Kahn. Players have a range of punches and kicks available, as well as flying kicks, uppercuts, roundhouses, and the special moves, which vary for each player. These include throws, uppercuts, long-distance bullets, bicycle kicks and a teleport feature.</desc>
+    <rating>0.8</rating>
+    <releasedate>19940909T000000</releasedate>
+    <developer>Midway</developer>
+    <publisher>Acclaim</publisher>
+    <genre>Fight-Action</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Mortal Kombat II (USA) (Rev 1).png</image>
+    <video>./downloaded_images/Mortal Kombat II (USA) (Rev 1).mp4</video>
+    <genreid>262</genreid>
+  </game>
+  <game id="2261" source="ScreenScraper.fr">
+    <path>./NBA Jam (USA) (Rev 1).zip</path>
+    <name>NBA Jam</name>
+    <desc>NBA Jam is a two-on-two basketball game You can play any NBA team, and you can play as players like Barkley, Starks, Pippen, and Grant. Each human player controls a single player, so choose your squad wisely to take team-mate skill into account. The game is action-oriented, and players can perform unrealistic slam-dunks. Full performance statistics are automatically recorded. The play clock and 3-point line apply, but other rules are largely overlooked.</desc>
+    <rating>0.75</rating>
+    <releasedate>19940302T000000</releasedate>
+    <developer>Midway</developer>
+    <publisher>Acclaim</publisher>
+    <genre>Sports-Sports / Basketball</genre>
+    <players>1-4</players>
+    <image>./downloaded_images/NBA Jam (USA) (Rev 1).png</image>
+    <video>./downloaded_images/NBA Jam (USA) (Rev 1).mp4</video>
+    <genreid>1538</genreid>
+  </game>
+  <game id="2554" source="ScreenScraper.fr">
+    <path>./NHL '94 (USA).zip</path>
+    <name>NHL '94</name>
+    <desc>After establishing themselves in the virtual rinks, EA combined both NHL and NHLPA licenses in NHL '94, allowing them to feature all 26 real teams (including both expansion teams) and players of the new NHL season for the first time in the series.
+
+Aside from the licenses, the gameplay for this edition sees for the first time the inclusion of the devastating one-timer shot, but to keep forwards (literally) in check, defenders also feature harder body checks, with new animations. For an additional challenge, players can also choose to control the goalkeeper manually. A popular feature in previous editions, fighting is completely removed from the game. Game modes include exhibition games (or "regular season" in-game), playoffs (best of one or best of seven) and an all new shoot-out mode. The main options remain basically the same couple since the establishment of the series - period length (5, 10 or 20 minutes), line changes (off, manual or the new automatic mode) and penalties. (off, on, on but no offsides). 
+
+While there are some minor differences between platforms (Genesis  features record keeping for users and the MegaCD version has more stat screens, CD quality audio backdrops and the usual highlight clips here and there), only the PC version released at the same time features complete season action.</desc>
+    <rating>0.9</rating>
+    <releasedate>19931002T000000</releasedate>
+    <developer>EA Sports</developer>
+    <publisher>Electronic Arts</publisher>
+    <genre>Sports-Sports / Hockey</genre>
+    <players>1-5</players>
+    <image>./downloaded_images/NHL '94 (USA).png</image>
+    <video>./downloaded_images/NHL '94 (USA).mp4</video>
+    <genreid>1538</genreid>
+  </game>
+  <game id="2338" source="ScreenScraper.fr">
+    <path>./Ogre Battle - The March of the Black Queen (USA).zip</path>
+    <name>Ogre Battle : The March of the Black Queen</name>
+    <desc>Lead the rebellion and lead your army to reclaim your land from the evil Zenobian Empire in this real-time strategy game. Free towns and collect items and tarot cards to increase your strength, as well as recruit allies to join you in your crusade. But when you finally win the day, will you be a benevolent leader, or an become an evil despot yourself? You must decide. </desc>
+    <rating>0.75</rating>
+    <releasedate>19950501T000000</releasedate>
+    <developer>Quest</developer>
+    <publisher>Enix</publisher>
+    <genre>Role playing games-Strategy</genre>
+    <players>1</players>
+    <image>./downloaded_images/Ogre Battle - The March of the Black Queen (USA).png</image>
+    <video>./downloaded_images/Ogre Battle - The March of the Black Queen (USA).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="2179" source="ScreenScraper.fr">
+    <path>./Out of This World (USA).zip</path>
+    <name>Out of This World</name>
+    <desc>You play Lester, a young physics professor, who suddenly finds himself in a strange alien world after a lightning struck during his particle experiment. Now he must fight for his life, first with his bare hands, then with a gun he finds. But what gives him courage is that he is not alone. One of the aliens, who together with him escapes from the prison, helps him on his dangerous quest. Friendship can overcome all the obstacles.
+
+Out of This World is an action adventure game, where the adventuring element is concealed behind what looks like a typical platform shooter. The gameplay is based mainly on physical and environmental puzzles. There is no on-screen interface, and no in-game dialogue. Each enemy requires a different strategy, and often there is only one way to solve the problem. Typically, enemies will be defeated through the use of a gun you find near the beginning of the game; the gun can be used to create a shield from behind which you can safely fire. 
+
+The game is divided into levels, each one of which can be accessed by typing a code you learn after having completed the level. If you die (which is often) you restart the level anew. The game features vector graphics and animated cut scenes. </desc>
+    <rating>0.8</rating>
+    <releasedate>19921101T000000</releasedate>
+    <developer>Delphine Software International</developer>
+    <publisher>Interplay</publisher>
+    <genre>Adventure-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Out of This World (USA).png</image>
+    <video>./downloaded_images/Out of This World (USA).mp4</video>
+    <genreid>512</genreid>
+  </game>
+  <game id="2280" source="ScreenScraper.fr">
+    <path>./Pilotwings (USA).zip</path>
+    <name>Pilotwings</name>
+    <desc>Fly a selection of aircraft (including training vehicles, fighter planes and helicopters) through a range of training programs and missions. The more training you complete, the better the chance that you will complete the even bigger missions. Try your hand at landing, taking off, party tricks, fly through bad weather and shoot down targets.</desc>
+    <rating>0.8</rating>
+    <releasedate>19910813T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Simulation</genre>
+    <players>1</players>
+    <image>./downloaded_images/Pilotwings (USA).png</image>
+    <video>./downloaded_images/Pilotwings (USA).mp4</video>
+    <genreid>1024</genreid>
+  </game>
+  <game id="2267" source="ScreenScraper.fr">
+    <path>./Pocky &amp; Rocky (USA).zip</path>
+    <name>Pocky &amp; Rocky</name>
+    <desc>This is a single player or two player simultaneous game.  It has wonderful "Super Deformed" type graphics set in ancient Japan and an above average difficulty.
+
+You play as the Princess Pocky and her Racoon Rocky.  Run through each level beating the enemies and you'll face a goofy boss at the end.  Beat him and you're on to the next level.
+
+You fight and shoot your way through numerous levels based on temples and shrines.  Pocky shoot playing cards and Rocky shoot leaves for long range attacks.  For short range Pocky uses a rod and Rocky his tail.
+
+Pocky also has a spin attack and Rocky can freeze into a invulnerable statue. (Think Tanuki Mario)</desc>
+    <rating>0.85</rating>
+    <releasedate>19930601T000000</releasedate>
+    <developer>Natsume</developer>
+    <publisher>Natsume</publisher>
+    <genre>Shoot'em Up-Action</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Pocky &amp; Rocky (USA).png</image>
+    <video>./downloaded_images/Pocky &amp; Rocky (USA).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="2398" source="ScreenScraper.fr">
+    <path>./Populous (USA).zip</path>
+    <name>Populous</name>
+    <desc>You play a god, gaming against other gods in a celestial game of conquest.  To win, you must help your chosen people take over the world and wipe out the vermin who worship that other god.
+
+Each god starts out with a single human, dumped into the middle of the wilderness.  Sometimes there is inhabitable land in sight, sometimes not.  To get win, you must change the landscape, creating flat land for your followers to build on.  The more followers you have you have, the more powerful you will be, so take care of them. Build as fast as you can, because the other god is doing the same.
+
+When you have enough followers, you can make the leader of your people into a hero.  He will then go around the land you have built, literally taking strength from the people into himself, and working his way toward the enemy.  When he gets there, he will engage in holy warfare upon your enemy's people.  He will burn; he will kill.  And he won't stop until they're all dead... or he is.
+
+But you don't have to let your people have all the fun; the god's have other tools as well.  You can drown your enemies one at a time with your land lowering powers.  Submerge their towns in swamps. Raise a volcano in the middle of their best farmland.  Even better, you can flood the land and drain all the people who didn't build on high-ground. 
+
+And when you win, you'll have 500 more worlds to conquer.  A god's play is just never done.</desc>
+    <rating>0.6</rating>
+    <releasedate>19901216T000000</releasedate>
+    <developer>Bullfrog</developer>
+    <publisher>Electronic Arts</publisher>
+    <genre>Strategy</genre>
+    <players>1</players>
+    <image>./downloaded_images/Populous (USA).png</image>
+    <video>./downloaded_images/Populous (USA).mp4</video>
+    <genreid>1280</genreid>
+  </game>
+  <game id="2270" source="ScreenScraper.fr">
+    <path>./Rock N' Roll Racing (USA).zip</path>
+    <name>Rock n' Roll Racing</name>
+    <desc>Rock 'n Roll Racing is an arcade combat racing game. Combat plays a heavy role in the game, as each car has a frontal weapon, such as a laser or missile, and a drop weapon, such as spikes or mines. As you complete races, you get more money to upgrade your car.
+
+The soundtrack features "Born to Be Wild," "Bad to the Bone," "The Peter Gunn Theme," "Highway Star" and "Paranoid." </desc>
+    <rating>0.85</rating>
+    <releasedate>19931101T000000</releasedate>
+    <developer>Silicon &amp; Synapse</developer>
+    <publisher>Interplay</publisher>
+    <genre>Race, Driving</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Rock N' Roll Racing (USA).png</image>
+    <video>./downloaded_images/Rock N' Roll Racing (USA).mp4</video>
+    <genreid>1537</genreid>
+  </game>
+  <game id="2416" source="ScreenScraper.fr">
+    <path>./R-Type III (USA).zip</path>
+    <name>R-Type III</name>
+    <desc>UNDER A NEW BYDO THREAT, EARTH RETALIATES It was believed on Earth that the deadly BYDO Empire had been destroyed--but now they've returned, as nasty as ever. Their ships and armies are more powerful than before, and Earth will surely be conquered unless the new R-90 ship can destroy them. Powered with engines that launch it into different dimensions, and armed with the Round, Shadow, and Cyclone Forces, R-90 has what it takes to wipe out the BYDO threat. Then, the BYDO mother ship must be found and destroyed to entirely erase the species from our galaxy.</desc>
+    <rating>0.9</rating>
+    <releasedate>19941001T000000</releasedate>
+    <developer>Jaleco</developer>
+    <publisher>Irem</publisher>
+    <genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/R-Type III (USA).png</image>
+    <video>./downloaded_images/R-Type III (USA).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="2141" source="ScreenScraper.fr">
+    <path>./Secret of Mana (USA).zip</path>
+    <name>Secret of Mana</name>
+    <desc>Once upon a time, the power of Mana was used by all people and helped their civilization grow. But as evil forces took control of Mana Fortress, there was no way out but a war which destroyed the Mana-based civilization but eventually brought peace to people. The events of the past became but legends to the new generation of humans. But history repeats itself... One day, a young village boy finds a rusty sword stuck at the bottom of a river. He doesn't know this sword is the famous Mana sword, the one that won so many battles before. By drawing the sword out of the river bottom, the boy unwillingly summons hordes of monsters, and is expelled from his village. A mysterious knight Jema is the only man who helps him and gives him instructions for the future. First, he must repair the sword, and then, with its help, take control of Mana seeds which can be found in eight great castles.
+
+"Secret of Mana" is an action RPG, featuring real-time hack-and-slash type of a combat. Like in Quest for Glory games, you have a stamina gauge. The more stamina you have, the more powerful your strike is. You upgrade your weapons and abilities and meet many different types of monsters, while roaming around the country and performing your quests.</desc>
+    <rating>0.9</rating>
+    <releasedate>19931003T000000</releasedate>
+    <developer>Square</developer>
+    <publisher>Square</publisher>
+    <genre>Role playing games</genre>
+    <players>1-3</players>
+    <image>./downloaded_images/Secret of Mana (USA).png</image>
+    <video>./downloaded_images/Secret of Mana (USA).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="2248" source="ScreenScraper.fr">
+    <path>./Shadowrun (USA).zip</path>
+    <name>Shadowrun</name>
+    <desc>The SNES version of Shadowrun appeared earlier than the Genesis one, and it is an entirely different game, with different story and gameplay, although it is also based on a pen-and-paper RPG of the same name. Your hero, Jake, is attacked by assassins, and appears to be dead. However, a mysterious dog approaches his lifeless body, transforms into a woman, and casts a spell on him... After that Jake wakes up in the morgue. He doesn't know what happened to him, he doesn't even remember his own name. Wandering through the futuristic city, where monorails, computers, and street gangs armed with automatic weapons co-exist with orcs, dwarves, and vampires, you begin to discover the mystery and to learn about the dangers awaiting you around every corner.</desc>
+    <rating>0.75</rating>
+    <releasedate>19931101T000000</releasedate>
+    <developer>Data East</developer>
+    <publisher>Beam Software</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./downloaded_images/Shadowrun (USA).png</image>
+    <video>./downloaded_images/Shadowrun (USA).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="2214" source="ScreenScraper.fr">
+    <path>./SimCity (USA).zip</path>
+    <name>SimCity</name>
+    <desc>SimCity sets you as the mayor of a new municipality, with the responsibility of building and maintaining a place where citizens can move to and work and be happy. The first task is to place essentials such as housing, transport links, schools, factories and shops. There are 50 types of these, allowing for homes of all standards and different types of businesses. Make sure to consider which sites are effective for which tasks. Some power sources pollute, others don't but are more expensive. Taxes must be raised to ensure an income, and then portions allocated to public services such as policing and roads. Earthquakes, floods and fires are all emergency situations that must be dealt to contain any damage.
+
+Successful mayoring will cause the small village to grow into a town, then a city and finally a metropolis. As the city's size grows so do it's needs. Commercial buildings may suddenly find that they need an airport to expand trade, or housing may find itself changing rapidly as vast amounts of people come and leave.
+
+The game also includes 8 pre-defined time-limited scenarios, with specific challenges and targets. The environment varies in each game (especially if you have the Terrain Editor add on), and this should affect your choices.</desc>
+    <rating>0.75</rating>
+    <releasedate>19910813T000000</releasedate>
+    <developer>Maxis Software</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Simulation-Build And Management</genre>
+    <players>1</players>
+    <image>./downloaded_images/SimCity (USA).png</image>
+    <video>./downloaded_images/SimCity (USA).mp4</video>
+    <genreid>1024</genreid>
+  </game>
+  <game id="2205" source="ScreenScraper.fr">
+    <path>./Soul Blazer (USA).zip</path>
+    <name>Soul Blazer</name>
+    <desc>You have been called by the Master to restore life to the Friel empire.  The ruler, King Magridd, struck a deal with the evil Deathtoll - in exchange for the soul of one living being, Deathtoll will give him a piece of gold.  Magridd's greed got the better of him, and, thinking of the millions of souls of every living creature around the world, readily agreed to the deal.  But Magridd himself has since disappeared, and the the land is now devoid of life - instead only filled with Deathtoll's monstrous minions.  Will you be able to save Friel's subjects from their horrible fate?
+
+Soul Blazer is an action RPG in the top-down style of The Legend of Zelda.  Like Zelda, battles are not turn-based - the player directly attacks enemies and dodges them.  As they progress, they also unlock special items which allows them to complete tasks for characters or access special areas (such as the Dream Rod, which transports you into someone's - or something's - dream).  Unlike Zelda, the game has an experience meter, and the player levels up and becomes stronger as they defeat enemies.  The game's unique hook is that there are "Monster Lairs" spread all over the land of Friel.  When they destroy all the enemies in a lair, they don't come back, and when they step on the empty lair, it restores part of the game world, bringing back anything from plants, to animals, to people, to buildings and more.  Each restored soul helps in some way - for example, the player can climb regrown ivy to reach new areas, reunite families by bringing back husband and wife, rebuild cities by restoring architects, and talk to characters to complete even more quests.
+
+The player's main goal is to find six Stones, which allow them to gain access to the World of Evil, where Deathtoll resides.  These stones are guarded by key characters in different parts of the world, usually the rulers, who require the player to defeat a boss character to rescue them.  While most of the game allows them to progress in a linear fashion, there are certain souls that can only be restored by killing monsters that can't be harmed with their earlier weapons.  The player will need to find special weaponry and then backtrack to previous areas to rescue these souls.  It's also advisable to revisit previous locations, as certain characters may have new sidequests to complete which can reward them with new items to make them even stronger.</desc>
+    <rating>0.75</rating>
+    <releasedate>19920801T000000</releasedate>
+    <developer>Quintet</developer>
+    <publisher>Enix</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./downloaded_images/Soul Blazer (USA).png</image>
+    <video>./downloaded_images/Soul Blazer (USA).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="2418" source="ScreenScraper.fr">
+    <path>./Sparkster (USA).zip</path>
+    <name>Sparkster</name>
+    <desc>Sparkster is a 2D side-scrolling platformer starring the eponymous hero who previously appeared in Rocket Knight Adventures. It is very different from the contemporary Genesis title Sparkster, as it does not continue the story from the first game and has completely different levels, enemies and gameplay mechanics. In that way it can be considered a spin-off in the series. The introduction merely shows how an elderly man captures a girl and takes her into his airship. At that point Sparkster appears and he decides to chase them.
+
+Sparkster is a rodent carrying a rocket pack on his back. He can move around, duck, jump and hang from branches or rails. His regular attack is a sword slash that sends out a circular projectile. Through the L and R buttons he can dash left and right in a circle of fire. Keeping the attack button pressed powers up a rocket meter. When full, different types or actions can be performed: dashing left, right or up to cover a large distance, ricocheting off walls in a diagonal motion, or a stationary attack.
+
+The game consists of nine levels of which the last two can only be accessed on higher difficulty levels. Sparkster collects diamonds for points, defeats all types of robot enemies and collects apples to restore his heart meter near the top of the screen. Most of the game consists of regular platforming gameplay, with a few diversions where Sparkster rides a robot bird, or is shown from a top-down view flying in the air like a vertically-scrolling shooter. All levels have a level boss along with a large number of mid-level bosses. The game supports a password system.</desc>
+    <rating>0.8</rating>
+    <releasedate>19941001T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Sparkster (USA).png</image>
+    <video>./downloaded_images/Sparkster (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2304" source="ScreenScraper.fr">
+    <path>./Spider-Man - Venom - Maximum Carnage (USA).zip</path>
+    <name>Spider-Man &amp; Venom : Maximum Carnage</name>
+    <desc>Loosely based on the comic book series, the story opens as Carnage breaks out of the insane asylum and wreaks mayhem. Spiderman immediately acknowledges the new job at hand and sets out to stop him.
+
+You start off with Spidey but in certain parts you get to choose between him and Venom, which takes you through an alternate routes. The gameplay is your standard beat-em-up, the regular punching and jump-kicking, with the addition of the all important webbing - ie web swinging, web shield etc. </desc>
+    <rating>0.65</rating>
+    <releasedate>19940902T000000</releasedate>
+    <developer>Software Creations</developer>
+    <publisher>LJN</publisher>
+    <genre>Beat'em Up</genre>
+    <players>1</players>
+    <image>./downloaded_images/Spider-Man - Venom - Maximum Carnage (USA).png</image>
+    <video>./downloaded_images/Spider-Man - Venom - Maximum Carnage (USA).mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="19196" source="ScreenScraper.fr">
+    <path>./Star Fox (USA) (Rev 2).zip</path>
+    <name>Star Fox</name>
+    <desc>This is the first SNES title using the Super FX chip; you are flying ace Fox McCloud, who with his trusted wingmen and his powerful Arwing starfighter, must rid the Lylat System of the evil that surrounds it. Wave after wave of enemies will fly towards you, and with the advice of your wingmen, you must guide your way through each level and take down as many as you can. </desc>
+    <rating>0.8</rating>
+    <releasedate>19930301T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>./downloaded_images/Star Fox (USA) (Rev 2).png</image>
+    <video>./downloaded_images/Star Fox (USA) (Rev 2).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="2215" source="ScreenScraper.fr">
+    <path>./Street Fighter Alpha 2 (USA).zip</path>
+    <name>Street Fighter Alpha 2</name>
+    <desc>Another Street Fighter sequel (this time for Street Fighter Alpha) adds even more to the classic fighting series.
+
+New characters in this version include Gen (a wise kung-fu master), Rolento (who you may remember from another Capcom classic, Final Fight) and Sakura, a young school girl who follows her hero Ryu so close, she has the same type of moves. Dhalsim and Zangief also return to the fight with some news moves.
+
+The other major difference is the loss of chain-combos and the gain of a custom combo system. Once you reach the required level (which is 1 at the least) you can execute a custom combo by combining any of the buttons (which there are 6 in total) or any of the special attacks (fireballs, etc.)</desc>
+    <rating>0.85</rating>
+    <releasedate>19961101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight-Action</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Street Fighter Alpha 2 (USA).png</image>
+    <video>./downloaded_images/Street Fighter Alpha 2 (USA).mp4</video>
+    <genreid>262</genreid>
+  </game>
+  <game id="2176" source="ScreenScraper.fr">
+    <path>./Street Fighter II Turbo (USA) (Rev 1).zip</path>
+    <name>Street Fighter II Turbo</name>
+    <desc>Choose from twelve street fighters from around the world, skilled in a variety of martial arts -- for instance, a character named E.Honda is a sumo wrestler from Japan, while Ken is a master of Tae Kwon Do from the United States. Journey to different countries to defeat other fighters, eventually leading up to a battle with evil man M.Bison. Besides the standard punches and kicks, each character can also execute special moves, such as energy projectiles or lightning-fast kicks, for more damage or to create a chain of hit combos. 
+
+This home version is a re-release of the original Street Fighter 2 game with several major improvements: the 'boss' characters (Vega, Balrog, Sagat, and M. Bison) are automatically unlocked for you to play, each character receives some new or upgraded moves and costume colors, and you can select a Turbo speed level which lets you play at a faster speed. It is based on the arcade re-release by the same name which also contained the subtitle "Hyper Fighting." </desc>
+    <rating>0.95</rating>
+    <releasedate>19930801T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Street Fighter II Turbo (USA) (Rev 1).png</image>
+    <video>./downloaded_images/Street Fighter II Turbo (USA) (Rev 1).mp4</video>
+    <genreid>262</genreid>
+  </game>
+  <game id="2501" source="ScreenScraper.fr">
+    <path>./Stunt Race FX (USA) (Rev 1).zip</path>
+    <name>Stunt Race FX</name>
+    <desc>Thanks to an improved version of the SuperFX Chip, Stunt Race FX was the first racing game for the SNES to feature fully polygonal cars and levels, which made it possible for the game to include gradients and obstacles that could not be realized in earlier, "flat" racing games.
+
+The game features four modes of play: 
+Speed Trax is basically an arcade mode where the player has to qualify for each upcoming race by reaching checkpoints while collecting items to restore his damage- and boost-bar. It is divided into a Novice-, Expert-, and Master class, with each class featuring four unique tracks.
+In Stunt Trax the player has to complete courses filled with obstacles within a certain time limit while trying to collect as many stars as possible.
+Battle Trax is a two player mode taking place on special tracks without any CPU-controlled opponents.
+Finally, Test Run let's the player practice all tracks that have been unlocked.</desc>
+    <rating>0.75</rating>
+    <releasedate>19940601T000000</releasedate>
+    <developer>Argonaut Software</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Race, Driving</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Stunt Race FX (USA) (Rev 1).png</image>
+    <video>./downloaded_images/Stunt Race FX (USA) (Rev 1).mp4</video>
+    <genreid>1537</genreid>
+  </game>
+  <game id="2292" source="ScreenScraper.fr">
+    <path>./Sunset Riders (USA).zip</path>
+    <name>Sunset Riders</name>
+    <desc>The Wild West...full of the criminal element. Sir Richard Rose, the most despicable face in the criminal lot, has enough power to control the mining facilities, cattle ranches, and trading communities and turn everything to his favor. With that much power, he could literally buy himself the Wild West and control everything!
+
+The people need help, desperately. And just as things were looking grim, who should ride into town but 4 men who have made a pact: to put down Sir Richard Rose and make the Wild West a free and peaceful place to live.
+
+Steve, Bob, Billy, and Cormano are the Sunset Riders, and they're about to live out the wildest shootout the Wild West has ever seen...</desc>
+    <rating>0.75</rating>
+    <releasedate>19931001T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Action-Shooter</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Sunset Riders (USA).png</image>
+    <video>./downloaded_images/Sunset Riders (USA).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="2322" source="ScreenScraper.fr">
+    <path>./Super Bomberman 2 (USA).zip</path>
+    <name>Super Bomberman 2</name>
+    <desc>This is the second game in the Bomberman series for the Super Nintendo.  This game is much like the first in gameplay but has new levels and a new story to play though.
+
+The graphics are slightly different from the first game but in general the game holds most of the same style as the first.  There are a few new features such as colour coded bomb blasts and a few different powerups but other than that the second game is the same as the first.</desc>
+    <rating>0.8</rating>
+    <releasedate>19940907T000000</releasedate>
+    <developer>Hudson</developer>
+    <publisher>Hudson</publisher>
+    <genre>Action-Puzzle-Game-Action / Labyrinth</genre>
+    <players>1-4</players>
+    <image>./downloaded_images/Super Bomberman 2 (USA).png</image>
+    <video>./downloaded_images/Super Bomberman 2 (USA).mp4</video>
+    <genreid>258</genreid>
+  </game>
+  <game id="2297" source="ScreenScraper.fr">
+    <path>./Super Bomberman (USA).zip</path>
+    <name>Super Bomberman</name>
+    <desc>Super Bomberman is the first Bomberman game on the Super NES.  Like most games in the Bomberman series, Super Bomberman features a normal game as well as the famous battle mode.
+
+In the normal game, Mr. Karat and Dr. Mukk have been terrorizing Diamond City.  You must go from board to board, defeating the bad guys and solving puzzles to move to the next board.
+
+In battle mode, up to four players go head to head in a battle to the death.  Players can be computer controlled or human controlled via the Super MultiTap.</desc>
+    <rating>0.8</rating>
+    <releasedate>19930901T000000</releasedate>
+    <developer>Hudson</developer>
+    <publisher>Hudson</publisher>
+    <genre>Action-Puzzle-Game-Action / Labyrinth</genre>
+    <players>1-4</players>
+    <image>./downloaded_images/Super Bomberman (USA).png</image>
+    <video>./downloaded_images/Super Bomberman (USA).mp4</video>
+    <genreid>258</genreid>
+  </game>
+  <game id="2173" source="ScreenScraper.fr">
+    <path>./Super Castlevania IV (USA) (Castlevania Anniversary Collection).zip</path>
+    <name>Super Castlevania IV</name>
+    <desc>Simon Belmont returns in the first Castlevania title to grace the SNES.  The console may be different, but the setup is very familiar: The place is Transylvania.  The villain is Count Dracula.
+
+Belmont has the classic Castlevania assortment of weapons (the famous whip, daggers, axes, fire bombs, boomerangs) at his disposal, and he gains strength and points by collecting various-sized hearts, coin purses, and pork chops. 
+
+Like most Castlevania games, Super Castlevania IV is a 2D side-scrolling action game. However, it is 2D with more depth than ever before. Parallax scrolling and rotating chambers are some of the "Mode 7" effects made possible by the SNES hardware.</desc>
+    <rating>0.8</rating>
+    <releasedate>19911204T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Platform</genre>
+    <players>1</players>
+    <image>./downloaded_images/Super Castlevania IV (USA) (Castlevania Anniversary Collection).png</image>
+    <video>./downloaded_images/Super Castlevania IV (USA) (Castlevania Anniversary Collection).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2287" source="ScreenScraper.fr">
+    <path>./Super Double Dragon (USA).zip</path>
+    <name>Super Double Dragon</name>
+    <desc>Billy and Jimmy Lee return for another adventure. This time, fellow martial arts instructor and narcotics investigator, Marian, has disappeared while attempting to infiltrate the ruthless criminal mob known as the Black Shadow Warriors.
+
+Once again it is up to you (and a friend) to battle your way through a selection of side-scrolling beat 'em up levels to defeat the Shadow Warriors and their leader Duke, and save Marian.</desc>
+    <rating>0.8</rating>
+    <releasedate>19921001T000000</releasedate>
+    <developer>Tecmo</developer>
+    <publisher>Tradewest</publisher>
+    <genre>Beat'em Up-Action</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Super Double Dragon (USA).png</image>
+    <video>./downloaded_images/Super Double Dragon (USA).mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="2180" source="ScreenScraper.fr">
+    <path>./Super Ghouls 'N Ghosts (USA).zip</path>
+    <name>Super Ghouls'n Ghosts</name>
+    <desc>4 years after Arthur saved Princess PrinPrin from the evil demon Loki, a wonderful celebration is about to take place! Arthur and the Princess are engaged, and the wedding is to take place at last! Thousands from around the kingdom have come to witness this joyous event!
+
+But somewhere in the darkness of the forest lurks a horrible evil...
+
+Arthur and PrinPrin are spending a quiet moment locked in embrace, when she is suddenly snatched away by a huge demon! As her screams echo through the night, Arthur rushes from the castle, and pursues the demon to the graveyard, where he is greeted by hundreds of horrible ghouls and monsters!
+
+Now, this time, they've gone too far...Arthur is ready for them... </desc>
+    <rating>0.8</rating>
+    <releasedate>19911101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform-Action-Platform / Fighter Scrolling</genre>
+    <players>1</players>
+    <image>./downloaded_images/Super Ghouls 'N Ghosts (USA).png</image>
+    <video>./downloaded_images/Super Ghouls 'N Ghosts (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2174" source="ScreenScraper.fr">
+    <path>./Super Mario All-Stars (USA).zip</path>
+    <name>Super Mario All-Stars</name>
+    <desc>Super Mario All-Stars is a compilation on Super Nintendo of all the platform games featuring Mario released for Nintendo. It includes : Super Mario Bros. 1, 2 and 3 as well as Super Mario Bros.: The Lost Levels, which was never released in Europe before. More than a simple compilation, the game brings improved graphics and the possibility to save your progress. Nostalgic fans of the first Nintendo console will be pleased.</desc>
+    <rating>0.8</rating>
+    <releasedate>19930801T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Platform-Compilation-Action</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Super Mario All-Stars (USA).png</image>
+    <video>./downloaded_images/Super Mario All-Stars (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2153" source="ScreenScraper.fr">
+    <path>./Super Mario Kart (USA).zip</path>
+    <name>Super Mario Kart</name>
+    <desc>A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. 
+
+There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on (based in Bowser's Castle, Super Mario World and more). Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.</desc>
+    <rating>0.8</rating>
+    <releasedate>19920901T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Race 3rd Pers. view-Race, Driving</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Super Mario Kart (USA).png</image>
+    <video>./downloaded_images/Super Mario Kart (USA).mp4</video>
+    <genreid>1537</genreid>
+  </game>
+  <game id="2171" source="ScreenScraper.fr">
+    <path>./Super Mario RPG - Legend of the Seven Stars (USA).zip</path>
+    <name>Super Mario RPG : Legend of the Seven Stars</name>
+    <desc>Super Mario RPG is a console RPG starring none other than Nintendo's popular character Mario. This game starts off like almost every other Mario game, with Bowser kidnapping Princess Toadstool. However, when Mario goes to Bowser's Keep to save her, a giant sword made by the evil Smithy crashes into the castle and sends Mario, the Princess, and Bowser flying to separate parts of the world.
+
+The game plays much like a traditional RPG: Mario and the members of his party gain experience points by defeating enemies. These experience points can increase the team's maximum number of hit points and flower points (magic points). The battles are also turn-based, but this time there are timed attacks and defenses. Timed attacks allow you to inflict more harm than normal to an enemy. Timed defenses, on the other hand, allow an enemy to inflict less harm than normal. You are only allowed to have three out of five team members on your party at a time. Mario is always in your party, regardless. Your team members can also purchase more weapons and abilities, along with better armor. </desc>
+    <rating>0.9</rating>
+    <releasedate>19960513T000000</releasedate>
+    <developer>Square Enix</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./downloaded_images/Super Mario RPG - Legend of the Seven Stars (USA).png</image>
+    <video>./downloaded_images/Super Mario RPG - Legend of the Seven Stars (USA).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="2163" source="ScreenScraper.fr">
+    <path>./Super Mario World 2 - Yoshi's Island (USA) (Rev 1).zip</path>
+    <name>Super Mario World 2 : Yoshi's Island</name>
+    <desc>The events of Yoshi's Island take place in the past. Mario was one of two twin brothers whom the evil Magikoopa Kamek tried to kidnap. Kamek kidnapped one of the brothers, but the second, Mario, fell down on Yoshi's island, where Yoshis live. The Yoshis decided to carry baby Mario and to bring him to his parents. But Kamek has sent troops and hordes of monsters to stop the Yoshis and to kidnap Mario.
+
+In the game, players control the differently colored Yoshis most of the time. Mario is a helpless baby unless a star that makes him invincible is collected. As a Yoshi, players can swallow enemies to make eggs; these eggs are used for attacking other enemies and activating switches. Yoshi can do a flutter jump to clear large gaps that a regular jump can't. Players can also pound the ground for attacks and also flipping certain switches. Additionally, Yoshis can transform into vehicles, such as a helicopter, submarine, or a train. If Mario is dismounted from a Yoshi, a countdown will start, and Yoshi must catch the baby before Kamek's servants kidnap it. When Mario is invincible, he doesn't ride on Yoshi and is immune to attack. While invincible, Mario can run up certain walls. </desc>
+    <rating>0.95</rating>
+    <releasedate>19951004T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Platform</genre>
+    <players>1</players>
+    <image>./downloaded_images/Super Mario World 2 - Yoshi's Island (USA) (Rev 1).png</image>
+    <video>./downloaded_images/Super Mario World 2 - Yoshi's Island (USA) (Rev 1).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2144" source="ScreenScraper.fr">
+    <path>./Super Mario World (USA).zip</path>
+    <name>Super Mario World</name>
+    <desc>Once again, the evil Bowser has captured Princess Peach (while on a holiday on Yoshi's Island), and it's up to Mario to save her. To aid him in his quest, Mario must use the flying ability of the feather to get him to places hard to reach. But what's even more important is his new friend, the dinosaur Yoshi, who Mario can ride through each level and eat the enemies.
+
+Over 90 levels are on offer, with plenty of Bowser's evil koopas and new characters around each level. Apart from saving Peach, you can also save some of Yoshi's friends, other dinosaurs that each have a special attack. Each level also contains a set of extra items to collect, including dinosaur coins, and break the tape at the end of each level to collect stars, that allow you to open up the bonus games.</desc>
+    <rating>0.85</rating>
+    <releasedate>19910813T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Platform-Platform / Run Jump</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Super Mario World (USA).png</image>
+    <video>./downloaded_images/Super Mario World (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2147" source="ScreenScraper.fr">
+    <path>./Super Metroid (Japan, USA) (En,Ja).zip</path>
+    <name>Super Metroid</name>
+    <desc>Join forces with the power of Samus for a Super Metroid clash! 
+Take on the legion of space pirates and take on a new Metroid force as you progress through the underworld of the planet Zebes! It's up to you and Samus to find the larval Metroid before evil forces misuse its energy. 
+Every vicious corner, every hidden passageway on the planet Zebes holds menacing creatures ready for battle... including the horrible Ridley and the giant lizard, Kraid. Use your lethal somersault to make enemies bite the dust. Use an electric beam through the gaps. No one will stop you or Samus. But beware! It seems that Mother Brain is back...</desc>
+    <rating>0.8</rating>
+    <releasedate>19940418T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Action-Adventure</genre>
+    <players>1</players>
+    <image>./downloaded_images/Super Metroid (Japan, USA) (En,Ja).png</image>
+    <video>./downloaded_images/Super Metroid (Japan, USA) (En,Ja).mp4</video>
+    <genreid>512</genreid>
+  </game>
+  <game id="2202" source="ScreenScraper.fr">
+    <path>./Super Punch-Out!! (USA).zip</path>
+    <name>Super Punch-Out!!</name>
+    <desc>Your dreams are finally going to come true! All the years of training...all for that day where you'd finally step into the ring, amidst the roar of the excited crowd, to square off against the best of the best...you tighten your fist and hear your gloves tighten with them...you take a step foward...the door opens before you...and the boxing ring beckons your name!
+
+16 world champs are here, with the same dream as you: to win the WVBA Championship! Welcome to the world of boxing, kid! Give 'em an uppercut or two for your fans!</desc>
+    <rating>0.75</rating>
+    <releasedate>19941001T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Sports-Sports / Boxing</genre>
+    <players>1</players>
+    <image>./downloaded_images/Super Punch-Out!! (USA).png</image>
+    <video>./downloaded_images/Super Punch-Out!! (USA).mp4</video>
+    <genreid>1540</genreid>
+  </game>
+  <game id="2264" source="ScreenScraper.fr">
+    <path>./Super Smash T.V. (USA).zip</path>
+    <name>Super Smash T.V.</name>
+    <desc>The year is 1999. The world's most popular television show is Smash T.V., an ultra-violent contest between two armed-to-the-teeth combatants, set loose in a series of deadly arenas that are filled to bursting with hordes of mindless beasts and killer robots. The aim of the game is to blast everything in sight and try to grab more cash and prizes than the other guy. Toaster ovens, VCRs, fancy cars and luxury holidays are there for the taking... for anyone who can survive long enough to enjoy them.
+
+Smash T.V. is an insane shoot-em-up from the brain of Eugene Jarvis, creator of Robotron: 2084. It retains that game's frantic style of play and two-joystick control method, but adds plenty of gore, violence, a hint of satire and that all-important two player mode. </desc>
+    <rating>0.9</rating>
+    <releasedate>19920201T000000</releasedate>
+    <developer>Williams</developer>
+    <publisher>Acclaim</publisher>
+    <genre>Shoot'em Up-Shooter-Shooter / Run and Gun</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Super Smash T.V. (USA).png</image>
+    <video>./downloaded_images/Super Smash T.V. (USA).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="2226" source="ScreenScraper.fr">
+    <path>./Super Star Wars - Return of the Jedi (USA) (Rev 1).zip</path>
+    <name>Super Star Wars : Return of the Jedi</name>
+    <desc>You select your character from the movie (Luke Skywalker, Han Solo, Princess Leia, or Chewbacca) before each level, as each one has different abilities, and go try to beat levels based on the movie's scenes brandishing lightsabers, blasters or crossbows, etc. depending on your choice of character.
+
+Gameplay consists of standard platform action spiced up with some slightly different (gameplay-wise) sequences. Race to Jabba the Hutt's palace in a speeder, fight your way through Jabba the Hutt's minions before killing Jabba himself, control speeder bikes and the Millennium Falcon, and much more. </desc>
+    <rating>0.8</rating>
+    <releasedate>19941001T000000</releasedate>
+    <developer>Sculptured Software</developer>
+    <publisher>JVC</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Super Star Wars - Return of the Jedi (USA) (Rev 1).png</image>
+    <video>./downloaded_images/Super Star Wars - Return of the Jedi (USA) (Rev 1).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2265" source="ScreenScraper.fr">
+    <path>./Super Star Wars - The Empire Strikes Back (USA) (Rev 1).zip</path>
+    <name>Super Star Wars : The Empire Strikes Back</name>
+    <desc>The sequel to  Super Star Wars is, as the name implies, based on Episode V: The Empire Strikes Back, the second of the original  Star Wars movie trilogy. The game features familiar locations and events from the film, such as the ice planet Hoth, the search for Yoda on the jungle planet Dagobah, and the fight against Darth Vader. Several locations are expanded, adding places and boss enemies that did not exist in the movie, and certain key events in the story are omitted or changed. 
+
+As in the previous game, the player is able to control three characters: Luke Skywalker, Han Solo, and Chewbacca. Unlike the first, each character has been given a distinct special move. Chewie spins a path of destruction through enemies, Han has grenades and a powerful slide, and Luke can switch to his lightsaber and block oncoming fire. Gameplay is very similar to the first game, mostly focusing on platforming elements. As before, there are Mode-7 vehicle levels, during which the player is able to pilot a snowspeeder against encroaching Imperial walkers, pilot the Millennium Falcon through the asteroid field, and break through Cloud City's defenses in Luke's X-Wing fighter. 
+
+The game's other major addition is the inclusion of a suite of Force powers for Luke. They are learned by collecting hidden orbs on the Dagobah level, and add a second special bar that depletes with each usage of a Force power. Power-ups include health items, weapon upgrades, screen-clearing detonators, and orbs that restore Luke's Force power. Passwords have also been added, and are given upon completion of each of the game's 25 stages. </desc>
+    <rating>0.75</rating>
+    <releasedate>19931001T000000</releasedate>
+    <developer>Sculptured Software</developer>
+    <publisher>JVC</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Super Star Wars - The Empire Strikes Back (USA) (Rev 1).png</image>
+    <video>./downloaded_images/Super Star Wars - The Empire Strikes Back (USA) (Rev 1).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2185" source="ScreenScraper.fr">
+    <path>./Super Star Wars (USA) (Rev 1).zip</path>
+    <name>Super Star Wars</name>
+    <desc>The story of this game is based on Episode IV: A New Hope, the first of the original Star Wars movie trilogy. The player initially controls the movie's main hero, Luke Skywalker, but two more controllable characters join later: the careless captain Han Solo and his Wookie side-kick, Chewbacca. The game generally follows the movie plot, allowing the player to experience some of the most important sequences, such as the search for Obi-Wan Kenobi, rescuing princess Leia, and the final confrontation against Death Star and its TIE Fighters, led by the mysterious Darth Vader. 
+ 
+Most of the game levels follow traditional platform gameplay style. As Luke, Han, or Chewbacca, the player makes his way through the linear levels, fighting enemies, jumping over obstacles, and collecting power-ups. The power-ups include standard health-restoring items, upgrades for the blaster gun , as well as special items that can be used for massive destruction of the enemies.</desc>
+    <rating>0.75</rating>
+    <releasedate>19921101T000000</releasedate>
+    <developer>Sculptured Software</developer>
+    <publisher>JVC</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Super Star Wars (USA) (Rev 1).png</image>
+    <video>./downloaded_images/Super Star Wars (USA) (Rev 1).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2145" source="ScreenScraper.fr">
+    <path>./Super Tennis (USA).zip</path>
+    <name>Super Tennis</name>
+    <desc>The world circuit of tennis awaits you. Select from 20 male and female players, each with their own style of game play (strengths and weaknesses) and play singles, doubles either against or with a human opponent or a CPU controlled player(s) on all the major surfaces (clay, grass &amp; hardcourt).
+
+The circuit mode is the meat of the game. Here, using a password save system, you play a selection of tournaments all around the world. The more games you play and win, the more points you receive. These points go towards your rank in the world tour rankings. There are 4 major tournaments (as in real life) and many minor tournaments to play.</desc>
+    <rating>0.7</rating>
+    <releasedate>19911101T000000</releasedate>
+    <developer>Tokyo Shoseki</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Sports-Sports / Tennis</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Super Tennis (USA).png</image>
+    <video>./downloaded_images/Super Tennis (USA).mp4</video>
+    <genreid>1538</genreid>
+  </game>
+  <game id="2306" source="ScreenScraper.fr">
+    <path>./Super Turrican 2 (USA).zip</path>
+    <name>Super Turrican 2</name>
+    <desc>Super Turrican is back, and once again the USS Freedom Forces have to prevent the evil Machine from harming innocent civilizations. 
+This requires the player to jump and shoot his way through large levels filled with lots of enemies. To get rid of all the enemies, several different weapons can be used, most of which are already familiar to players from previous episodes: a Laser, a Spread-shot, and a(improved) Rebound. There is also the option to go into "wheel-mode" for a limited time to become invincible, lay mines and shoot rockets. The Flamethrower is new to the series as well as the Rope, which can be used to climb walls, cling to platforms or pick up out-of-reach items. Much like in side-scrolling shooters, you can now pick up homing missiles as secondary weapons. The biggest difference to previous Turrican-games however, is the fact that in Super Turrican 2 almost half of the levels are strictly linear and don't feature any large secret areas.</desc>
+    <rating>0.8</rating>
+    <releasedate>19951102T000000</releasedate>
+    <developer>Ocean</developer>
+    <publisher>Ocean</publisher>
+    <genre>Platform-Action-Platform / Shooter Scrolling</genre>
+    <players>1</players>
+    <image>./downloaded_images/Super Turrican 2 (USA).png</image>
+    <video>./downloaded_images/Super Turrican 2 (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2183" source="ScreenScraper.fr">
+    <path>./Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).zip</path>
+    <name>Teenage Mutant Ninja Turtles IV : Turtles in Time</name>
+    <desc>Doesn't this Shredder dude ever take a break? Now he's gone and kidnapped Channel 6's own reporter babe April O' Neill again, and just as the Ninja Turtles were about to kick his butt, he tore open some kinda time portal thingy and flung them back into the past!
+
+Now Leonardo, Raphael, Donatello, and Michaelangelo have to fight their way through time and tons of Foot Soldiers, mutant wackos, and more in order to save April and slam Shredder's butt all the way to Dimension X! Go, Turtles! Kick some shell and save April! </desc>
+    <rating>0.85</rating>
+    <releasedate>19920801T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Beat'em Up</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).png</image>
+    <video>./downloaded_images/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="2335" source="ScreenScraper.fr">
+    <path>./Tetris &amp; Dr. Mario (USA).zip</path>
+    <name>Tetris &amp; Dr. Mario</name>
+    <desc>Two of the most popular puzzle games return, but now together in an exclusive compilation for SNES. The games have a slight graphical update when compared with the original Game Boy and NES games, but the gameplay remains totally faithful to the games released for both platforms.
+
+In Tetris, the main objective is to pile blocks that will fall down continuously, in order to create a row or "line" without spaces. For this collection, the game comes with two bonus options: 2 PLAYER GAME (absent in the NES version) and VS. COM (absent in both versions), with 3 CPU opponents available, each one representing a difficulty level (EASY, MEDIUM, and HARD, respectively).
+
+In Dr. Mario, the objective is to eliminate all the viruses contained in a big bottle. Dr. Mario (situated in the upper-right side of the screen) will throw capsules with 6 different color combinations (Red-Red, Red-Blue, Yellow-Yellow, Red-Yellow, Blue-Blue and Blue-Yellow) in order to line up at least four viruses or capsules of the same color horizontally or vertically and to make them disappear. In this compilation, the game comes with a bonus option: VS. COM, where you'll face the CPU players: Blue Virus (EASY), Yellow Virus (MEDIUM), and Red Virus (HARD).
+
+For competitive players in both games, there is Mixed Match, where you and a friend can play Tetris and Dr. Mario like a tournament! Adjust the handicap levels, play time, music, and other settings to balance your different skills. The game order is: TETRIS B-TYPE (clear a certain amount of lines), DR. MARIO (disinfect a predetermined number of viruses) and TETRIS A-TYPE (clear lines until the time expires). At the end of the time limit, the player with the highest score is the winner.</desc>
+    <rating>0.75</rating>
+    <releasedate>19941201T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Puzzle-Game-Compilation-Puzzle-Game / Fall</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Tetris &amp; Dr. Mario (USA).png</image>
+    <video>./downloaded_images/Tetris &amp; Dr. Mario (USA).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="2559" source="ScreenScraper.fr">
+    <path>./Tetris Attack (USA) (En,Ja).zip</path>
+    <name>Tetris Attack</name>
+    <desc>All is not well on Yoshi's Island! The devious king Bowser has cast a spell on the island's inhabitants, turning them into his mindless slaves. Only Yoshi has escaped its effects, and so he must set off to free his friends, and to defeat Bowser and break the spell.
+
+Tetris Attack is a fact-paced action puzzler featuring the colorful cast of characters from Yoshi's Island. A stack of blocks continually rises from the bottom of the screen, and the player controls a cursor which can swap any two blocks horizontally. Make a row or column of three or more and they'll clear, potentially creating combos from new blocks falling to take their place. Combos will send large garbage blocks to your opponent, which must be eliminated by clearing a piece that is touching it, turning it into normal blocks.
+
+The game offers a story mode against the computer, as well as a 2-player versus mode, an endless mode, a timed mode where a certain number of blocks must be cleared, and a puzzle mode where a set arrangement of blocks must be cleared in a specific number of moves. The game is based on the Japan-only title Panel de Pon.</desc>
+    <rating>0.8</rating>
+    <releasedate>19960801T000000</releasedate>
+    <developer>Intelligent Systems</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Puzzle-Game-Puzzle-Game / Fall</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Tetris Attack (USA) (En,Ja).png</image>
+    <video>./downloaded_images/Tetris Attack (USA) (En,Ja).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="2194" source="ScreenScraper.fr">
+    <path>./Adventures of Batman &amp; Robin, The (USA).zip</path>
+    <name>The Adventures of Batman &amp; Robin</name>
+    <desc>Konami's game based on the 90s animated series starring the Caped Crusader sends him against his most famous enemies in a platforming/beat'em'up title. Each level sends Batman against one particular villain. Most levels present Batman with a large number of henchmen to take out and environmental dangers to avoid on his way to one or more boss battles. Besides kicks, throws and punches, Batman can use a variety of equipment against the enemies. Always available are Batarangs and the grappling hook. Before each mission, Batman can also select additional equipment, like knockout gas spray, throwing stars, smoke bombs and plastic explosives, all with limited ammunition. Special equipment required for certain levels include a flashlight, gas mask and X-ray goggles. If some necessary equipment is missing, it is always possible to return to the Batcave to change the gear and then restart the current level. Many of the situations and environments of the levels are based on episodes from the series and the game's graphics emulate the animation and drawing style of the show.</desc>
+    <rating>0.8</rating>
+    <releasedate>19941201T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Beat'em Up-Platform-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Adventures of Batman &amp; Robin, The (USA).png</image>
+    <video>./downloaded_images/Adventures of Batman &amp; Robin, The (USA).mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="2409" source="ScreenScraper.fr">
+    <path>./Death and Return of Superman, The (USA) (Rev 1).zip</path>
+    <name>The Death and Return of Superman</name>
+    <desc>"Doomsday" is here and only Superman can stop him. Unfortunately in doing so he gets killed himself. Now four other characters emerge, each claiming to be the real hero. The story starts you off with Superman, then Steel, the Eradicator, the Cyborg, and Superboy. Each character has slightly varied moves so different strategies apply when playing as them.
+
+The gameplay is basically that of a standard beat-em-up, with the punches, throws and specials moves.</desc>
+    <rating>0.65</rating>
+    <releasedate>19940801T000000</releasedate>
+    <developer>Sunsoft</developer>
+    <publisher>Blizzard Entertainment</publisher>
+    <genre>Beat'em Up-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Death and Return of Superman, The (USA) (Rev 1).png</image>
+    <video>./downloaded_images/Death and Return of Superman, The (USA) (Rev 1).mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="2312" source="ScreenScraper.fr">
+    <path>./Legend of the Mystical Ninja, The (USA).zip</path>
+    <name>The Legend of the Mystical Ninja</name>
+    <desc>Goemon (Kid Ying) and Ebisu-Maru (Dr. Yang) are enjoying themselves at home, when they hear about strange spirits sighted at the temple and taking control of the other villagers. Concerned, that a new evil has appeared, the two set out to confront it at the temple. This is just the beginning of a new adventure that will take them Goemon and his partner all across Japan; into moutain villages, amusement parks, castle fortresses and more!
+
+Players control either Goemon or his partner Ebisu-Maru (or both, in 2 player mode). They sequentially travel through adventure-type villages and side-scrolling jump and run action stages. In the overhead-view villages, enemies must be defeated in order to earn money and other items (which include a weapon-enhancing lucky cat and mystical scrolls). The player is able to attack with their primary weapon and jump. Throwing weapons can also be used, which consume money for each one thrown. Attacking innocent villagers will cause the player to lose money. Money can also be gained (or lost) by visiting one of the numerous mini games, often in houses: which include mazes, whack-a-mole, the lottery, dice, a 3D labyrinth and a game trivia quiz show. Other businesses such as shops, resturants, inns and judo training can also be visited.
+
+At the end of each village is an "action area" which changes the game in a complete side-scroller. One or both players can enter this place, filled with obstacles, traps, enemies and a boss creature. In addition to the regular moves used in town, players also gain the ability to unleash one of four special attacks for each character (if bought beforehand at the judo training center). These consume the scrolls collected in order to use. Additionally, in a 2 player game, characters can ride piggy-back on one another, to avoid getting stuck by a scrolling screen.</desc>
+    <rating>0.8</rating>
+    <releasedate>19920202T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Adventure-Action-Platform / Run Jump Scrolling-Platform</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Legend of the Mystical Ninja, The (USA).png</image>
+    <video>./downloaded_images/Legend of the Mystical Ninja, The (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2138" source="ScreenScraper.fr">
+    <path>./Legend of Zelda, The - A Link to the Past (USA).zip</path>
+    <name>The Legend of Zelda : A Link to the Past</name>
+    <desc>Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule. In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn the powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.</desc>
+    <rating>0.95</rating>
+    <releasedate>19920413T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Adventure-Action / Adventure-Role playing games-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Legend of Zelda, The - A Link to the Past (USA).png</image>
+    <video>./downloaded_images/Legend of Zelda, The - A Link to the Past (USA).mp4</video>
+    <genreid>512</genreid>
+  </game>
+  <game id="108110" source="ScreenScraper.fr">
+    <path>./Legend of Zelda, The - Parallel Worlds.zip</path>
+    <name>The Legend of Zelda : Parallel Worlds</name>
+    <desc>The Legend of Zelda: Parallel Worlds is a fan overhaul of The Legend of Zelda: A Link to the Past using new graphics, new music, a new overworld and underworld, and a new storyline. 
+ 
+You moved here from another land with a friend to find treasure. Not long after your arrival, a lot of strange occurrences started. 
+ 
+Seven people "appeared out of nowhere" and beings questioning about the Parallel Tower and the inhabitants of Kakariko Village. The Parallel Tower was situated in the Sky Islands northeast of the village. The legend behind the Parallel Tower was long lost, and only the elders knew the legend. 
+ 
+Word begins to spread out about the Parallel Tower, and people started to learn about the legend again. The legend says it was a by product of a war long ago, and a power known as the Triforce existed at the top of it.  It is said that nobody knows about the clues as to how to get to the top of the Tower. The seven people are said to know about these "clues" to the Tower. 
+ 
+The king was notified of these seven people and he invited them to the castle to find out what they wanted with the tower. Just the night before the seven people are to have an audience with the king, the king's assistant, Draegor, eliminates the king and claims the throne by default. 
+ 
+The seven people walked right into an obvious trap. Draegor, who people believe is a power hungry person, caught all 7 people and forces them to tell him what they know about the Tower. 
+ 
+When the people learned of the king's fate, a rebel force is gathered in secret to plot against Draegor. The rebel force learned that 2 out of 7 people whom Draegor caught are still alive and imprisoned in the guardhouse. They quickly rallied anyone who may be interested in the Tower and the locals to help these last 2 people. 
+ 
+You and your friend heard about this plan and are willing help the rebels against Draegor. 
+ 
+The night of the operation begins the story...</desc>
+    <rating>0.8</rating>
+    <releasedate>20061231T000000</releasedate>
+    <developer>Euclid &amp; SePH</developer>
+    <publisher>ROMhacking.net</publisher>
+    <genre>Action-Action / Adventure</genre>
+    <players>1</players>
+    <image>./downloaded_images/Legend of Zelda, The - Parallel Worlds.png</image>
+    <video>./downloaded_images/Legend of Zelda, The - Parallel Worlds.mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="2189" source="ScreenScraper.fr">
+    <path>./Lion King, The (USA).zip</path>
+    <name>The Lion King</name>
+    <desc>Young Simba just can't wait to be king. His father is the current King of the Savannah and the young prince is able to frolic the lands at will; jumping on and around other subjects of this animal kingdom. When Simba's father, King Mufasa, is killed and his evil brother Scar takes over the kingdom, Simba is banished from the lands of his birthright and has to grow up fast, honing his skills, for the day of his return.
+
+The Lion King, based on the famous Disney movie, is a platform game where you control Simba - initially as a young cub, and later as an adult lion. The plot of the game follows the plot of the movie. Each of the levels represents a part of the movie. 
+
+As young Simba, you can fight various beasts, such as lizards, by jumping on them. You can also roar to scare some creatures into submission, though every time you roar, you have to wait for your "roar meter" to charge. 
+
+As an adult lion, you can still roar and jump, but now you fight enemies by slashing at them with your claws (if you're skillful enough, you can also grab them and toss them off the screen). 
+
+The game features no in-game save function, and it needs to be replayed from the beginning every time.</desc>
+    <rating>0.75</rating>
+    <releasedate>19941101T000000</releasedate>
+    <developer>Westwood Studios</developer>
+    <publisher>Virgin</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Lion King, The (USA).png</image>
+    <video>./downloaded_images/Lion King, The (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2234" source="ScreenScraper.fr">
+    <path>./Lost Vikings, The (USA).zip</path>
+    <name>The Lost Vikings</name>
+    <desc>Three Vikings, Eric the Swift, Olaf the Stout and Baleog the Fierce, were kidnapped by the alien Tomator, the evil Croutonian ruler, who is collecting unique life forms to display in his gallery. The three Vikings will have to combine their unique skills to defeat Tomator, as well as a vast array of aliens, robots, giant snails, big lizards and more.
+
+The Lost Vikings is a side-scrolling platform puzzle game with a twist. Instead of one character who can jump, run, shoot, collect items, flip switches and so on, there are three different characters, each with his own skills. Eric the Swift can jump, run and bash through walls with his tough helmet. Olaf the Stout has a shield which can block attacks, function as an air glider or as a step to stand on. Baleog the Fierce can shoot things with his arrows (including switches) or kill things with his sword. The player has to use the three Vikings as a team if he wants to get past the increasingly difficult levels and puzzles.
+
+The player controls one Viking at a time, but can switch between them at any point. The Vikings have limited space in their inventory which they can use to keep various items. Each Viking has three health points, and if he loses them all from confrontations with dangers, he dies (some threats kill instantly), and the level must be restarted.</desc>
+    <rating>0.8</rating>
+    <releasedate>19930402T000000</releasedate>
+    <developer>Silicon &amp; Synapse</developer>
+    <publisher>Interplay</publisher>
+    <genre>Puzzle-Game-Platform</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Lost Vikings, The (USA).png</image>
+    <video>./downloaded_images/Lost Vikings, The (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2237" source="ScreenScraper.fr">
+    <path>./Magical Quest Starring Mickey Mouse, The (USA) (Rev 1).zip</path>
+    <name>The Magical Quest Starring Mickey Mouse</name>
+    <desc>This was the first Mickey Mouse game for Super NES, featuring a traditional platform gameplay and colorful Disney-like graphics.
+
+Mickey's mission is to save his dog Pluto, who's been kidnapped and kept inside emperor Pete's castle, in a magical land, guarded by mysterious creatures. 
+
+The originality of the game lies on the possibility of wearing different costumes to incorporate different characters, all taken from old Disney cartoons. Each one has a special ability. As a wizard, Mickey has magical powers; as a fireman, the mouse can deal with fire; and, as a climber, he can reach the top of high platforms.</desc>
+    <rating>0.8</rating>
+    <releasedate>19921201T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform-Action</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Magical Quest Starring Mickey Mouse, The (USA) (Rev 1).png</image>
+    <video>./downloaded_images/Magical Quest Starring Mickey Mouse, The (USA) (Rev 1).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2250" source="ScreenScraper.fr">
+    <path>./Tiny Toon Adventures - Buster Busts Loose! (USA).zip</path>
+    <name>Tiny Toon Adventures : Buster Busts Loose!</name>
+    <desc>You play Buster Bunny, in a series of levels, featuring characters from the Tiny Toon Adventures cartoon.
+
+Most of the six levels are platform levels, where Buster has a number of attacks to defeat the enemies he faces.  These include kicks and jumps, and a dash ability that lets you slide into enemies to defeat them, and also climb walls.
+
+The fourth level is an exception, and consists of a game of (American) football, played with a simplified version of the rules.  The idea is simply to get a touchdown, while as usual progressing at least ten yards in four downs.  There are two plays: a running play, where you simply run as far as possible while avoiding the opposing team; and a passing play that starts with a pass that can gain you extra yards, but must be caught.
+
+Between levels there are bonus games.  You spin a wheel to determine what game you play out of five available. </desc>
+    <rating>0.8</rating>
+    <releasedate>19930801T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/Tiny Toon Adventures - Buster Busts Loose! (USA).png</image>
+    <video>./downloaded_images/Tiny Toon Adventures - Buster Busts Loose! (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2480" source="ScreenScraper.fr">
+    <path>./Top Gear 2 (USA).zip</path>
+    <name>Top Gear 2</name>
+    <desc>This third-person racing game resembles Gremlin's earlier Lotus series, in terms of its general look and feel, right down to the text font used in the game. Your task is to race through 16 countries, each of which features four races, with many real-world circuits recreated in incongruous locations (such as the Monza layout in Ayers Rock, and the old Hockenheim in Vancouver). 
+
+These four-race blocks each represent their own mini-championship, in which you race against 19 cars, needing to finish in the top 10 to continue, and with the top 6 scoring points 10-6-4-3-2-1, and the respective amount of money in thousands. This can be spent on various upgrades, ranging from engine to tires (wet and dry) and from shocks (front, side and rear) to gearboxes. The ideal approach is to buy the more expensive versions ASAP, as you get no saving when upgrading. If you win the four-race championship, you get the next password. 
+
+You get a set amount of nitro boost to use during each race, although bonus nitros, money and instant speed-up token appear on many tracks. Hazards such as puddles, barriers and ramps are also frequent.</desc>
+    <rating>0.8</rating>
+    <releasedate>19930901T000000</releasedate>
+    <developer>Gremlin Interactive</developer>
+    <publisher>Kemco</publisher>
+    <genre>Race, Driving</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Top Gear 2 (USA).png</image>
+    <video>./downloaded_images/Top Gear 2 (USA).mp4</video>
+    <genreid>1537</genreid>
+  </game>
+  <game id="2256" source="ScreenScraper.fr">
+    <path>./U.N. Squadron (USA).zip</path>
+    <name>U.N. Squadron</name>
+    <desc>Side-scrolling shoot-em-up, in a similar style to such games as Gradius, R-Type and Scramble. The aim is to wipe out the enemy, which has gathered around the allied airspace of 'Area 88', in a series of military aircraft-based scenarios.
+ You choose one of three unique pilots; Shin Kazama, Micky Schymon or Greg Gates, each with varying abilities at damage repair, weapon handling and flying skill, and engage the enemy over a series of challenging missions. The player starts out with the weakest plane, the F8E Crusader, which can only be armed with a very basic range weapons. But, through completing various missions, enough cash can be raised to purchase higher-quality aircraft. These superior planes are more agile, have improved resilience to damage and have a greater range of fire. Furthermore, the more advanced fighters can be armed with superior special weapons, such as napalm.
+ The missions include attacks on sand bases, the nuclear submarine 'Seavet' and enemy supply camps, as well as seeing off groups of airborne 'bandits' who swarm-in on Area 88.
+ The enemy is plentiful, and the pace is frantic. Shoot at everything on the screen that moves, and the allied forces might just come out on top......</desc>
+    <rating>0.75</rating>
+    <releasedate>19910901T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Shoot'em Up-Action</genre>
+    <players>1</players>
+    <image>./downloaded_images/U.N. Squadron (USA).png</image>
+    <video>./downloaded_images/U.N. Squadron (USA).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="2196" source="ScreenScraper.fr">
+    <path>./Ultimate Mortal Kombat 3 (USA).zip</path>
+    <name>Ultimate Mortal Kombat 3</name>
+    <desc>Ultimate Mortal Kombat 3 combines the best of all the Mortal Kombats into a single cartridge. 23 playable characters are immediately available, such as Reptile, Cyrax, Scorpion, Sub-Zero, Jax, Katana, Sonya, and more. There are two bosses that are unlockable, as well as additional characters.
+
+There is a variety of new levels, some of which are interactive. Characters can uppercut someone, causing them to hit the ground hard and crash through to the bottom floor, or they can knocked someone off a bridge, landing in a pit of spikes.
+
+Players can go against the computer one-on-one, two-on-two, or take part in the 8-fighter tournament.
+
+The DS version has a wireless one-one-one multiplayer mode and includes the Puzzle Kombat mini-game from Mortal Kombat: Deception.</desc>
+    <rating>0.7</rating>
+    <releasedate>19961001T000000</releasedate>
+    <developer>Midway</developer>
+    <publisher>Midway</publisher>
+    <genre>Fight-Action-Fight / Versus</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Ultimate Mortal Kombat 3 (USA).png</image>
+    <video>./downloaded_images/Ultimate Mortal Kombat 3 (USA).mp4</video>
+    <genreid>262</genreid>
+  </game>
+  <game id="2422" source="ScreenScraper.fr">
+    <path>./Uniracers (USA).zip</path>
+    <name>Uniracers</name>
+    <desc>What do you get if you cross Sonic the Hedgehog with Tony Hawk's Pro Skater?
+
+It might seem an odd combination, but it describes Uniracers perfectly. One of the more successful releases of the Super Nintendo's twilight era, Uniracers mixes platform-based high-speed racing, with crazy stunts and tricks.
+
+The basic idea in most levels of the game is simple. Get your unicycle from A to B as quickly as possible, and finish ahead of your opponent. It's like Sonic, but with none of those pesky enemies, pointless power-ups and frustrating obstructions. In fact it doesn't sound like much of a game at all...
+
+Here's the key, though. Tricks performed and landed during the race increase your speed. The better the trick, the greater your increase in speed will be.
+
+Also, some levels are set in areas designed solely for stunts. Such levels require you to earn as many style points as possible, by doing tricks. These levels are against the clock, and a set points score, rather than an opponent.
+
+Unicycles are stupid and difficult, and yet fun, once you get the hang of them. Much the same could be said about Uniracers... </desc>
+    <rating>0.85</rating>
+    <releasedate>19941202T000000</releasedate>
+    <developer>DMA Design</developer>
+    <publisher>Psygnosis</publisher>
+    <genre>Race, Driving</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Uniracers (USA).png</image>
+    <video>./downloaded_images/Uniracers (USA).mp4</video>
+    <genreid>1537</genreid>
+  </game>
+  <game id="2207" source="ScreenScraper.fr">
+    <path>./Wario's Woods (USA).zip</path>
+    <name>Wario's Woods</name>
+    <desc>Wario's Woods is a puzzle game similar to Tetris or Columns, but with a twist. Instead of directly controlling the monsters and bombs that are falling down, the player controls Toad who has to carry around stacks of monsters and bombs and to combine them in the right way. One bomb plus at least two monsters of the same color have to be combined to make them disappear. If five or more objects are cleared at the same time, a diamond will appear. Destroying the diamond will clear all monsters of the diamond's color. 
+There are four different ways to pick up objects. The A button lets Toad pick up the whole stack that is in front of him, the B button lets him only pick up one object, even if it's in the middle of a stack, the Y button lets him kick a monster or bomb that's in front of him and the X button places him on top of the stack that he is carrying. He can also run up walls and stacks to catch falling objects out of the air or to pick up certain parts of a stack.</desc>
+    <rating>0.8</rating>
+    <releasedate>19941210T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Puzzle-Game-Puzzle-Game / Fall</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Wario's Woods (USA).png</image>
+    <video>./downloaded_images/Wario's Woods (USA).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="2296" source="ScreenScraper.fr">
+    <path>./X-Men - Mutant Apocalypse (USA).zip</path>
+    <name>X-Men : Mutant Apocalypse</name>
+    <desc>Because of a rise of anti-mutant activity in Genosha, Professor Xavier uses Cerebro to scan the island nation and discovers Apocalypse's presence there. Genosha's government is apparently using Apocalypse to bring their mutant population under control. However, Xavier suspects Apocalypse to follow his own plans and sends five X-Men, Cyclops, Wolverine, Psylocke, Beast and Gambit, to investigate.
+
+X-Men: Mutant Apocalypse combines the gameplay of a side-scrolling brawler like Final Fight with elements of a platformer, that is, players have to fight various enemies and survive the occasional jumping-puzzle. Most levels also feature mid- and end-bosses in form of robots, monsters or known Super-Villains.
+
+Each character has unique abilities and special moves: Cyclops uses his Optic Blast to attack enemies from a distance, Wolverine can climb walls, Psylocke is very agile and the best jumper of the team, Beast can cling to the ceiling while Gambit throws explosive cards at his enemies. Special moves are quite similar to those found in Street Fighter II (Wolverine has a Dragon-Punch-style attack and Gambit's Double Kick is virtually identical to M. Bison's Scissors Kick), and require similar button combinations.
+
+While most stages are unique for each character, some can be played with any of the X-Men. Progress is saved via password. </desc>
+    <rating>0.7</rating>
+    <releasedate>19941101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform-Action-Beat'em Up</genre>
+    <players>1</players>
+    <image>./downloaded_images/X-Men - Mutant Apocalypse (USA).png</image>
+    <video>./downloaded_images/X-Men - Mutant Apocalypse (USA).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="2154" source="ScreenScraper.fr">
+    <path>./Yoshi's Cookie (USA).zip</path>
+    <name>Yoshi's Cookie</name>
+    <desc>Yoshi's Cookie is a tile-matching video game in which the player is given a playing field populated with cookies of several types, arranged in a rectangular grid. The main objective of each level is to clear the playing field of all the cookies. The player mixes and matches the cookies such that entire rows or columns consist only of cookies of the same type. The player controls a cursor on the grid that is used to rotate individual lines in a manner similar to a Rubik's Cube. When a single row or column contains all matching cookies, the row is cleared from the grid. The grid grows in size from cookies entering from the top and right sides of the playing field and a game over occurs when the grid overflows. A sixth cookie type, shaped like Yoshi's head, occasionally appears that acts as a wild card, used to help clear lines of any other cookie.</desc>
+    <rating>0.7</rating>
+    <releasedate>19930601T000000</releasedate>
+    <developer>Bullet Proof Software</developer>
+    <publisher>Bullet Proof Software</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Yoshi's Cookie (USA).png</image>
+    <video>./downloaded_images/Yoshi's Cookie (USA).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="19248" source="ScreenScraper.fr">
+    <path>./Zombies Ate My Neighbors (USA).zip</path>
+    <name>Zombies Ate My Neighbors</name>
+    <desc>In the game you are a male or female protagonist (Zeke or Julia), fighting the vampires, mummies, zombies, etc. on over 50 levels (not including secrets) and saving all of the people you find. There are defined number of neighbors you save on every level. When they are free then "Exit" door opens and you jump on next level.The levels differ from mall and grocery store to beaches and football fields. Using different weapons such as bazooka or water gun you have to kill the bosses such as huge babies, dragons or ants at the end of levels. You can play the game with two players cooperatively. </desc>
+    <rating>0.7</rating>
+    <releasedate>19930901T000000</releasedate>
+    <developer>LucasArts</developer>
+    <publisher>Konami</publisher>
+    <genre>Action-Shooter</genre>
+    <players>1-2</players>
+    <image>./downloaded_images/Zombies Ate My Neighbors (USA).png</image>
+    <video>./downloaded_images/Zombies Ate My Neighbors (USA).mp4</video>
+    <genreid>256</genreid>
+  </game>
+</gameList>

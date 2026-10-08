@@ -1,0 +1,16 @@
+*.mp4
+*.webm
+*.avi
+*.mov
+dist/
+.vercel/
+node_modules/
+.env
+.env.*
+!.env.example
+__pycache__/
+chrome_dom.html
+# Cópias extraídas antigas; o catálogo usa os ZIPs de roms/snes.
+/roms/*.sfc
+/roms/*.smc
+/roms/*.bin

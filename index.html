@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SNES Retro Vault | Portal Privado de Super Nintendo</title>
+  <meta name="description" content="Portal web privado de retrogames de Super Nintendo com EmulatorJS, suporte nativo a gamepads USB/Xbox e troca dinâmica de jogos.">
+
+  <!-- Google Fonts: Inter & Rajdhani -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-theme">
+  <!-- Layout Principal -->
+  <div class="app-layout">
+    
+    <!-- Sidebar Lateral Esquerda -->
+    <aside class="sidebar" id="sidebar">
+      <!-- Cabeçalho do Menu -->
+      <div class="sidebar-header">
+        <div class="brand">
+          <div class="brand-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="controller-icon">
+              <rect x="2" y="6" width="20" height="12" rx="6"></rect>
+              <circle cx="8" cy="12" r="1.5" fill="currentColor"></circle>
+              <circle cx="16" cy="10" r="1" fill="currentColor"></circle>
+              <circle cx="18" cy="12" r="1" fill="currentColor"></circle>
+              <circle cx="16" cy="14" r="1" fill="currentColor"></circle>
+              <circle cx="14" cy="12" r="1" fill="currentColor"></circle>
+            </svg>
+          </div>
+          <div class="brand-text">
+            <h1 class="brand-title">SNES VAULT</h1>
+            <span class="brand-subtitle">16-BIT RETRO PORTAL</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Status do Gamepad / Controle USB em Tempo Real -->
+      <div class="gamepad-status-card" id="gamepad-status-card">
+        <div class="gamepad-indicator-dot" id="gamepad-dot"></div>
+        <div class="gamepad-info">
+          <span class="gamepad-label">Controle USB/PC</span>
+          <span class="gamepad-status-text" id="gamepad-name">Aguardando conexão...</span>
+        </div>
+        <button class="btn-help-icon" id="btn-open-controls-help" title="Ajuda de Mapeamento" aria-label="Ajuda de Controles">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"></circle>
+            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+            <line x1="12" y1="17" x2="12.01" y2="17"></line>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Barra de Pesquisa Rápida -->
+      <div class="search-box">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="search-icon">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="text" id="search-input" placeholder="Buscar jogo..." autocomplete="off">
+      </div>
+
+      <!-- Seção da Lista de Jogos -->
+      <div class="games-nav-container">
+        <div class="nav-section-title">SELEÇÃO DE JOGOS <span id="catalog-count"></span></div>
+        <div class="games-list" id="games-list">
+          <!-- Jogos renderizados dinamicamente pelo app.js -->
+        </div>
+      </div>
+
+      <!-- Opção Extra: Carregador de ROM Local -->
+      <div class="sidebar-footer">
+        <label class="btn-custom-rom" title="Carregar qualquer arquivo .sfc ou .smc do seu computador">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+            <polyline points="17 8 12 3 7 8"></polyline>
+            <line x1="12" y1="3" x2="12" y2="15"></line>
+          </svg>
+          <span>Carregar ROM do PC</span>
+          <input type="file" id="custom-rom-input" class="visually-hidden" accept=".sfc,.smc,.bin,.zip">
+        </label>
+        <div class="system-badge">
+          <span>Core: Snes9x (EmulatorJS)</span>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Área Principal de Exibição -->
+    <main class="main-content">
+      
+      <!-- Topbar com Informações do Jogo Ativo e Ações -->
+      <header class="topbar">
+        <div class="topbar-left">
+          <button class="btn-toggle-sidebar" id="btn-toggle-sidebar" aria-label="Alternar Menu Lateral">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="3" y1="12" x2="21" y2="12"></line>
+              <line x1="3" y1="6" x2="21" y2="6"></line>
+              <line x1="3" y1="18" x2="21" y2="18"></line>
+            </svg>
+          </button>
+          
+          <div class="active-game-details">
+            <img id="active-game-thumb" src="assets/covers/super-metroid.jpg" alt="Capa do Jogo" class="active-game-thumb">
+            <div class="active-game-meta">
+              <div class="active-game-title-row">
+                <h2 id="active-game-title" class="active-game-title">Super Metroid</h2>
+                <span id="active-game-tag" class="featured-pill">⭐ DESTAQUE</span>
+              </div>
+              <div class="active-game-sub">
+                <span id="active-game-genre">Ação &amp; Aventura</span>
+                <span class="meta-separator">•</span>
+                <span id="active-game-year">1994</span>
+                <span class="meta-separator">•</span>
+                <span id="active-game-file" class="file-name-code">super-metroid.sfc</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="topbar-actions">
+          <button class="btn-action" id="btn-controls-guide" title="Guia de Mapeamento do Controle">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="2" y="6" width="20" height="12" rx="6"></rect>
+              <path d="M6 12h4m-2-2v4"></path>
+              <line x1="15" y1="11" x2="15.01" y2="11"></line>
+              <line x1="18" y1="13" x2="18.01" y2="13"></line>
+            </svg>
+            <span>Mapear Controle</span>
+          </button>
+
+          <button class="btn-action" id="btn-restart-game" title="Reiniciar Instância do Jogo">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M23 4v6h-6"></path>
+              <path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path>
+            </svg>
+            <span>Reiniciar</span>
+          </button>
+
+          <button class="btn-action btn-primary-action" id="btn-fullscreen" title="Modo Tela Cheia">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path>
+            </svg>
+            <span>Tela Cheia</span>
+          </button>
+        </div>
+      </header>
+
+      <!-- Palco Central do Emulador (#emulator) -->
+      <section class="emulator-stage">
+        <div class="emulator-ambient-glow" id="ambient-glow"></div>
+        
+        <div class="emulator-wrapper" id="emulator-wrapper">
+          <!-- Container Oficial Centralizado do Emulador -->
+          <div id="emulator" class="emulator-container">
+            <!-- Iframe Isolado de Execução do EmulatorJS -->
+            <iframe 
+              id="emulator-frame" 
+              src="about:blank" 
+              allow="gamepad; autoplay; fullscreen; cross-origin-isolated; keyboard-map" 
+              allowfullscreen="true"
+              title="Super Nintendo Emulator Player"
+              tabindex="0">
+            </iframe>
+          </div>
+
+          <!-- Barra de Informações de Controle Rápido Abaixo da Tela -->
+          <div class="emulator-footer-hint">
+            <div class="hint-item">
+              <span class="hint-badge">D-PAD</span>
+              <span class="hint-desc">Setas / Direcional</span>
+            </div>
+            <div class="hint-item">
+              <span class="hint-badge">A / B / X / Y</span>
+              <span class="hint-desc">X / Z / S / A (Ou Botões do Controle)</span>
+            </div>
+            <div class="hint-item">
+              <span class="hint-badge">L / R</span>
+              <span class="hint-desc">Q / W (Gatilhos)</span>
+            </div>
+            <div class="hint-item">
+              <span class="hint-badge">START / SELECT</span>
+              <span class="hint-desc">Enter / Shift</span>
+            </div>
+            <div class="hint-item highlight-hint">
+              <span class="hint-badge gear-badge">⚙️</span>
+              <span class="hint-desc">Passe o mouse na barra do emulador para Salvar ou Mapear</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- Modal Interativo: Guia de Mapeamento de Controles USB/Xbox -->
+  <dialog id="controls-modal" class="controls-modal">
+    <div class="modal-backdrop" id="modal-backdrop"></div>
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" class="modal-icon">
+            <rect x="2" y="6" width="20" height="12" rx="6"></rect>
+            <circle cx="8" cy="12" r="1.5" fill="currentColor"></circle>
+            <circle cx="16" cy="10" r="1" fill="currentColor"></circle>
+            <circle cx="18" cy="12" r="1" fill="currentColor"></circle>
+            <circle cx="16" cy="14" r="1" fill="currentColor"></circle>
+            <circle cx="14" cy="12" r="1" fill="currentColor"></circle>
+          </svg>
+          <h3>Configuração de Controles (PC / USB / Xbox)</h3>
+        </div>
+        <button class="btn-close-modal" id="btn-close-modal" aria-label="Fechar Modal">&times;</button>
+      </div>
+
+      <div class="modal-body">
+        <div class="guide-step">
+          <div class="step-number">1</div>
+          <div class="step-content">
+            <h4>Conexão Automática do Gamepad</h4>
+            <p>Conecte seu controle USB ou Bluetooth (Xbox 360/One/Series, DualShock, DualSense ou genérico) ao computador. <strong>Pressione qualquer botão no controle</strong> para que o navegador ative a Gamepad API.</p>
+          </div>
+        </div>
+
+        <div class="guide-step">
+          <div class="step-number">2</div>
+          <div class="step-content">
+            <h4>Reconhecimento Nativo no EmulatorJS</h4>
+            <p>O EmulatorJS possui detecção nativa. Assim que você pressionar os direcionais ou botões, ele responderá diretamente no jogo.</p>
+          </div>
+        </div>
+
+        <div class="guide-step">
+          <div class="step-number">3</div>
+          <div class="step-content">
+            <h4>Como Remapear Botões Nativamente</h4>
+            <p>Se quiser mudar a ordem dos botões do controle:</p>
+            <ol class="step-list">
+              <li>Mova o cursor para a barra de ferramentas inferior do emulador.</li>
+              <li>Clique no ícone de <strong>Engrenagem (Configurações ⚙️)</strong>.</li>
+              <li>Selecione <strong>"Controls" (Controles)</strong> &gt; <strong>"Gamepad"</strong>.</li>
+              <li>Clique no botão desejado e aperte o botão correspondente no seu controle físico. As alterações são salvas automaticamente no navegador.</li>
+            </ol>
+          </div>
+        </div>
+
+        <div class="controls-mapping-table">
+          <table>
+            <thead>
+              <tr>
+                <th>Botão SNES</th>
+                <th>Controle Xbox</th>
+                <th>Teclado (Padrão)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td><strong>D-Pad</strong></td><td>D-Pad / Analógico Esquerdo</td><td>Setas direcionais</td></tr>
+              <tr><td><strong>A</strong></td><td>Botão B</td><td>Tecla X</td></tr>
+              <tr><td><strong>B</strong></td><td>Botão A</td><td>Tecla Z</td></tr>
+              <tr><td><strong>X</strong></td><td>Botão Y</td><td>Tecla S</td></tr>
+              <tr><td><strong>Y</strong></td><td>Botão X</td><td>Tecla A</td></tr>
+              <tr><td><strong>L / R</strong></td><td>LB / RB (Ombro)</td><td>Q / W</td></tr>
+              <tr><td><strong>Select / Start</strong></td><td>Back / Start</td><td>Shift / Enter</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <button class="btn-primary-action" id="btn-close-modal-footer">Entendido, Voltar ao Jogo</button>
+      </div>
+    </div>
+  </dialog>
+
+  <!-- Script da Aplicação -->
+  <script src="catalog.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
