@@ -499,6 +499,46 @@ html, body {
   background: radial-gradient(circle at 50% 20%, #151829 0%, #08090e 80%);
 }
 
+.dev-support {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  width: 100%;
+  padding: 1rem 1.25rem;
+  border: 1px solid rgba(245, 158, 11, 0.4);
+  border-radius: 12px;
+  background: linear-gradient(110deg, #261b15, #191329);
+  color: #f4f0e9;
+}
+.dev-support-label {
+  color: #fbbf24;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+.dev-support p { margin: 0.35rem 0; font-size: 0.85rem; line-height: 1.5; }
+.dev-support-address { font-size: 0.7rem; color: #c5bdcf; }
+.dev-support-address summary { cursor: pointer; }
+.dev-support-address code { display: block; margin-top: 0.5rem; overflow-wrap: anywhere; }
+.dev-support-link {
+  flex-shrink: 0;
+  padding: 0.7rem 1rem;
+  border-radius: 8px;
+  background: #fbbf24;
+  color: #211407;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+.dev-support-link:hover { background: #fde68a; }
+.dev-support-link:focus-visible { outline: 3px solid white; outline-offset: 4px; }
+@media (max-width: 700px) {
+  .dev-support { flex-direction: column; align-items: flex-start; padding: 0.85rem; }
+  .dev-support-link { text-align: center; width: 100%; }
+}
+
 .topbar {
   height: var(--topbar-height);
   padding: 0 1.75rem;
@@ -683,6 +723,8 @@ html, body {
 
 /* Container do Emulador com Proporção Clássica 4:3 */
 .emulator-container {
+  flex: 1;
+  min-height: 0;
   width: 100%;
   height: calc(100% - 48px);
   background: #000000;
